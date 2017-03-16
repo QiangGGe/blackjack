@@ -1,0 +1,215 @@
+2017-03-16T01:39:53.557Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-16T01:39:53.563Z - normal: checking language setting...
+2017-03-16T01:39:53.563Z - normal: Language: zh
+2017-03-16T01:39:53.952Z - success: protocol editor-framework registered
+2017-03-16T01:39:53.952Z - success: protocol app registered
+2017-03-16T01:39:53.952Z - success: protocol theme registered
+2017-03-16T01:39:53.952Z - success: protocol profile registered
+2017-03-16T01:39:53.952Z - success: protocol packages registered
+2017-03-16T01:39:53.956Z - success: protocol unpack registerred
+2017-03-16T01:39:53.956Z - success: protocol disable-commonjs registerred
+2017-03-16T01:39:54.262Z - normal: connected!
+2017-03-16T01:39:54.265Z - normal: Check project /Users/BDGame_qiang/projects/blackjack/blackjack/blackjack
+2017-03-16T01:39:54.266Z - normal: Initializing Cocos2d
+2017-03-16T01:39:54.427Z - normal: Initializing Asset Database
+2017-03-16T01:39:54.445Z - success: protocol uuid registerred
+2017-03-16T01:39:54.446Z - success: protocol db registerred
+2017-03-16T01:39:54.446Z - success: protocol thumbnail registerred
+2017-03-16T01:39:54.446Z - normal: Loading editor/builtin packages
+2017-03-16T01:39:54.558Z - success: assets loaded
+2017-03-16T01:39:54.565Z - success: builder loaded
+2017-03-16T01:39:54.572Z - success: hierarchy loaded
+2017-03-16T01:39:54.576Z - success: inspector loaded
+2017-03-16T01:39:54.577Z - success: keystore loaded
+2017-03-16T01:39:54.582Z - success: node-library loaded
+2017-03-16T01:39:54.585Z - success: preferences loaded
+2017-03-16T01:39:54.600Z - success: project-importer loaded
+2017-03-16T01:39:54.603Z - success: project-settings loaded
+2017-03-16T01:39:54.607Z - success: ui-kit loaded
+2017-03-16T01:39:54.611Z - success: ui-grid loaded
+2017-03-16T01:39:54.616Z - success: scene loaded
+2017-03-16T01:39:54.617Z - success: sprite-editor loaded
+2017-03-16T01:39:54.655Z - success: store loaded
+2017-03-16T01:39:54.660Z - success: timeline loaded
+2017-03-16T01:39:54.660Z - normal: Loading builtin packages
+2017-03-16T01:39:54.665Z - success: anysdk loaded
+2017-03-16T01:39:54.668Z - success: asset-db-debugger loaded
+2017-03-16T01:39:54.669Z - success: code-editor loaded
+2017-03-16T01:39:54.670Z - success: color-picker loaded
+2017-03-16T01:39:54.675Z - success: console loaded
+2017-03-16T01:39:54.679Z - success: package-manager loaded
+2017-03-16T01:39:54.684Z - success: tester loaded
+2017-03-16T01:39:54.688Z - success: ui-kit-preview-extra loaded
+2017-03-16T01:39:54.692Z - success: ui-kit-preview loaded
+2017-03-16T01:39:54.696Z - success: ui-tree loaded
+2017-03-16T01:39:54.744Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack/blackjack/blackjack
+2017-03-16T01:39:54.747Z - normal: Loading packages
+2017-03-16T01:39:54.752Z - normal: Watching packages
+2017-03-16T01:39:54.768Z - normal: Run Application
+2017-03-16T01:39:55.200Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["blackjack/BLACK JACK_1.png","blackjack/BLACK JACK_10.png","blackjack/BLACK JACK_11.png","blackjack/BLACK JACK_12.png","blackjack/BLACK JACK_13.png","blackjack/BLACK JACK_14.png","blackjack/BLACK JACK_15.png","blackjack/BLACK JACK_16.png","blackjack/BLACK JACK_17.png","blackjack/BLACK JACK_18.png","blackjack/BLACK JACK_19.png","blackjack/BLACK JACK_2.png","blackjack/BLACK JACK_20.png","blackjack/BLACK JACK_21.png","blackjack/BLACK JACK_22.png","blackjack/BLACK JACK_3.png","blackjack/BLACK JACK_4.png","blackjack/BLACK JACK_5.png","blackjack/BLACK JACK_6.png","blackjack/BLACK JACK_7.png","blackjack/BLACK JACK_8.png","blackjack/BLACK JACK_9.png","bust/BUST_1.png","bust/BUST_10.png","bust/BUST_2.png","bust/BUST_3.png","bust/BUST_4.png","bust/BUST_5.png","bust/BUST_6.png","bust/BUST_7.png","bust/BUST_8.png","bust/BUST_9.png"]
+2017-03-16T01:39:55.272Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["user/circle_1.png","user/circle_2.png","user/circle_3.png","user/circle_4.png","user/circle_5.png"]
+2017-03-16T01:39:56.381Z - success: preview server running at http://localhost:7457
+2017-03-16T01:39:56.382Z - normal: Compiling scripts...
+2017-03-16T01:39:58.104Z - normal: Compiled project javascript file successfully
+2017-03-16T01:40:01.909Z - normal: 1.4.0
+2017-03-16T01:42:12.841Z - warn: Script attached to "btnBack" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/btnBack"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.843Z - warn: Script attached to "btnMsg" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/btnMsg"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.850Z - warn: Script attached to "diamond" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/bottom/diamond"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.853Z - warn: Script attached to "gold" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/bottom/gold"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.855Z - warn: Script attached to "btnRule" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/bottom/btnRule"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.856Z - warn: Script attached to "btnSetting" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/bottom/btnSetting"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.860Z - warn: Script attached to "btnQuickStart" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/center/btnQuickStart"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.860Z - warn: Script attached to "AudioMng" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Menu/AudioMng"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "01ca4b52-b6f5-47f8-9999-e5335c9ae02e"
+Class ID: "01ca4tStvVH+JmZ5TNcmuAu"
+
+2017-03-16T01:42:12.861Z - warn: Script attached to "RankList" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Menu/RankList"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "fe3fc231-0851-4bac-a1e0-eace7ec51514"
+Class ID: "fe3fcIxCFFLrKHg6s5+xRUU"
+
+2017-03-16T01:42:12.866Z - warn: Script attached to "Menu" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Menu"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "20f609be-dd19-463b-bc76-fc047367a41c"
+Class ID: "20f60m+3RlGO7x2/ARzZ6Qc"
+
+2017-03-16T01:42:12.870Z - warn: Script attached to "btnAdvance" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/center/btnAdvance"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:12.872Z - warn: Script attached to "btnTournament" in scene "menu.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/center/btnTournament"
+Asset url: "db://assets/scenes/menu.fire"
+Script UUID: "a171d4a7-0971-4c44-8aac-d4859dbe058c"
+Class ID: "a171dSnCXFMRIqs1IWdvgWM"
+
+2017-03-16T01:42:13.422Z - warn: The Asset used by component "cc.MissingScript" in scene "menu.fire" is missing. Detailed information:
+Node path: "Menu/RankList"
+Asset url: "db://assets/scenes/menu.fire"
+Missing uuid: "3f7d6f14-8e3f-432c-a537-09c8c7e03b76"
+
+2017-03-16T02:05:46.713Z - normal: Compiled project javascript file successfully
+2017-03-16T02:11:10.684Z - normal: Compiled project javascript file successfully
+2017-03-16T02:11:32.656Z - normal: Compiled project javascript file successfully
+2017-03-16T02:11:45.605Z - normal: Compiled project javascript file successfully
+2017-03-16T02:23:07.223Z - normal: Compiled project javascript file successfully
+2017-03-16T02:23:07.226Z - error: Compile error: Cannot require 'PlayerDatas' from '/Users/BDGame_qiang/projects/blackjack/blackjack/blackjack/temp/scripts/assets/scripts/UI'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-03-16T02:36:57.011Z - normal: Compiled project javascript file successfully
+2017-03-16T02:36:57.014Z - error: Compile error: Cannot require 'PlayerDatas' from '/Users/BDGame_qiang/projects/blackjack/blackjack/blackjack/temp/scripts/assets/scripts/UI'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-03-16T02:38:55.165Z - normal: Compiled project javascript file successfully
+2017-03-16T02:38:55.167Z - error: Compile error: Cannot require 'PlayerDatas' from '/Users/BDGame_qiang/projects/blackjack/blackjack/blackjack/temp/scripts/assets/scripts/UI'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-03-16T02:39:46.182Z - normal: Compiled project javascript file successfully
+2017-03-16T02:40:26.020Z - normal: Compiled project javascript file successfully
+2017-03-16T02:41:05.834Z - normal: Compiled project javascript file successfully
+2017-03-16T02:43:32.920Z - normal: Compiled project javascript file successfully
+2017-03-16T02:43:38.424Z - normal: Compiled project javascript file successfully
+2017-03-16T02:44:14.233Z - normal: Compiled project javascript file successfully
+2017-03-16T02:44:17.872Z - normal: Compiled project javascript file successfully
+2017-03-16T02:49:42.170Z - normal: Compiled project javascript file successfully
+2017-03-16T02:50:33.577Z - normal: Compiled project javascript file successfully
+2017-03-16T02:55:16.871Z - normal: Compiled project javascript file successfully
+2017-03-16T02:56:09.027Z - normal: Compiled project javascript file successfully
+2017-03-16T03:00:44.074Z - normal: Compiled project javascript file successfully
+2017-03-16T03:02:13.293Z - normal: Compiled project javascript file successfully
+2017-03-16T03:07:11.906Z - normal: Compiled project javascript file successfully
+2017-03-16T03:07:45.661Z - normal: Compiled project javascript file successfully
+2017-03-16T03:11:54.838Z - normal: Compiled project javascript file successfully
+2017-03-16T03:16:00.215Z - normal: Compiled project javascript file successfully
+2017-03-16T03:17:09.091Z - normal: Compiled project javascript file successfully
+2017-03-16T03:19:09.736Z - normal: Compiled project javascript file successfully
+2017-03-16T03:19:55.297Z - normal: Compiled project javascript file successfully
+2017-03-16T03:24:17.272Z - normal: Compiled project javascript file successfully
+2017-03-16T03:25:13.725Z - normal: Compiled project javascript file successfully
+2017-03-16T03:25:49.748Z - normal: Compiled project javascript file successfully
+2017-03-16T03:26:57.690Z - normal: Compiled project javascript file successfully
+2017-03-16T03:27:38.484Z - normal: Compiled project javascript file successfully
+2017-03-16T03:27:50.936Z - normal: Compiled project javascript file successfully

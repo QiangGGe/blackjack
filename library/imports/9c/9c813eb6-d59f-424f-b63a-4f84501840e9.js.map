@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAM,OAAO,GAAG,CACZ;AACI,QAAI,EAAE,UAAU;AAChB,QAAI,EAAE,IAAI;AACV,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,MAAM;AACZ,QAAI,EAAE,IAAI;AACV,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,MAAM;AACZ,QAAI,EAAE,IAAI;AACV,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,SAAS;AACf,QAAI,EAAE,GAAG;AACT,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,QAAQ;AACd,QAAI,EAAE,IAAI;AACV,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,OAAO;AACb,QAAI,EAAE,IAAI;AACV,YAAQ,EAAE,CAAC;CACd,EACD;AACI,QAAI,EAAE,KAAK;AACX,QAAI,EAAE,KAAK;AACX,YAAQ,EAAE,CAAC;CACd,CACJ,CAAC;;AAEF,MAAM,CAAC,OAAO,GAAG;AACb,WAAO,EAAE,OAAO;CACnB,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "const players = [\n    {\n        name: '燃烧吧，蛋蛋儿军',\n        gold: 3000,\n        photoIdx: 0\n    },\n    {\n        name: '地方政府',\n        gold: 2000,\n        photoIdx: 1\n    },\n    {\n        name: '手机超人',\n        gold: 1500,\n        photoIdx: 2\n    },\n    {\n        name: '天灵灵，地灵灵',\n        gold: 500,\n        photoIdx: 3\n    },\n    {\n        name: '哟哟，切克闹',\n        gold: 9000,\n        photoIdx: 4\n    },\n    {\n        name: '学姐不要死',\n        gold: 5000,\n        photoIdx: 5\n    },\n    {\n        name: '提百万',\n        gold: 10000,\n        photoIdx: 6\n    }\n];\n\nmodule.exports = {\n    players: players\n};"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAM,OAAO,GAAG,OAAO,CAAC,aAAa,CAAC,CAAC,OAAO,CAAC;AAC/C,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,kBAAU,EAAE,EAAE,CAAC,UAAU;AACzB,sBAAc,EAAE,EAAE,CAAC,MAAM;AACzB,iBAAS,EAAE,CAAC;KACf;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,OAAO,GAAG,IAAI,CAAC,UAAU,CAAC,OAAO,CAAC;AACvC,YAAI,CAAC,YAAY,EAAE,CAAC;KACvB;AACD,gBAAY,EAAE,wBAAY;AACtB,aAAK,IAAI,CAAC,GAAG,CAAC,EAAC,CAAC,GAAG,IAAI,CAAC,SAAS,EAAE,EAAE,CAAC,EAAC;AACnC,gBAAI,UAAU,GAAG,OAAO,CAAC,CAAC,CAAC,CAAC;AAC5B,gBAAI,IAAI,GAAG,EAAE,CAAC,WAAW,CAAC,IAAI,CAAC,cAAc,CAAC,CAAC;AAC/C,gBAAI,CAAC,YAAY,CAAC,UAAU,CAAC,CAAC,IAAI,CAAC,CAAC,EAAC,UAAU,CAAC,CAAC;;AAEjD,cAAE,CAAC,GAAG,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;;AAErB,gBAAI,CAAC,OAAO,CAAC,QAAQ,CAAC,IAAI,CAAC,CAAC;SAC/B;KACJ;;;;;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "const players = require('PlayerDatas').players;\ncc.Class({\n    extends: cc.Component,\n\n    properties: {\n        scrollView: cc.ScrollView,\n        prefabRankItem: cc.Prefab,\n        rankCount: 0\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        this.content = this.scrollView.content;\n        this.populateList();\n    },\n    populateList: function () {\n        for (var i = 0;i < this.rankCount; ++i){\n            var playerInfo = players[i];\n            var item = cc.instantiate(this.prefabRankItem);\n            item.getComponent('RankItem').init(i,playerInfo);\n            \n            cc.log(this.content);\n            \n            this.content.addChild(item);\n        }\n    }\n\n    // called every frame, uncomment this function to activate update callback\n    // update: function (dt) {\n\n    // },\n});\n"
+  ]
+}
