@@ -5,20 +5,40 @@ cc.Class({
         spRankBG: cc.Sprite,//排名的背景图片
         labelRank: cc.Label,//排名
         labelPlayerName: cc.Label,//玩家姓名
+        labelGold: cc.Label,//玩家得到的金钱
         spPlayerPhoto: cc.Sprite,//玩家头像
-        texRankBG: cc.SpriteFrame,//排名的背景图片数组
-        texPlayerPhoto: cc.SpriteFrame//玩家头像数组
-
+        texRankBG: cc.SpriteFrame,
+        texPlayerPhoto: cc.SpriteFrame
     },
-
+    //     properties: {
+    //     spRankBG: cc.Sprite,
+    //     labelRank: cc.Label,
+    //     labelPlayerName: cc.Label,
+    //     labelGold: cc.Label,
+    //     spPlayerPhoto: cc.Sprite,
+    //     texRankBG:{
+    //         default: [],
+    //         type: cc.SpriteFrame
+    //     } ,
+    //     texPlayerPhoto: {
+    //         default: [],
+    //         type: cc.SpriteFrame
+    //     }
+    //     // ...
+    // },
     init: function (rank, playerInfo) {
         if (rank <3){//
             this.labelRank.node.active = false;
-            this.spRankBG.spriteFrame = this.textRankBG[rank];
+            this.spRankBG.spriteFrame = this.texRankBG[rank];
         } else {
-            this.labelRank.node.active = ture;
+            this.labelRank.node.active = true;
             this.labelRank.string = (rank + 1).toString();
         }
+
+        this.labelPlayerName.string = playerInfo.name;
+        this.labelGold.string = playerInfo.gold.toString();
+        this.spPlayerPhoto.spriteFrame = this.texPlayerPhoto[playerInfo.photoIdx];
+
     },
     // use this for initialization
     onLoad: function () {

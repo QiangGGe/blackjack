@@ -9,7 +9,7 @@ cc.Class({
     onLoad: function () {
         this.audioMng = this.audioMng.getComponent('AudioMng');
         //这里开始播放背景音效
-        this.audioMng.playMusic();
+        // this.audioMng.playMusic();
         cc.director.preloadScene('table',function () {
             cc.log('Next scence preloaded')
         });

@@ -1,23 +1,29 @@
+const players = require('PlayerDatas').players;
 cc.Class({
     extends: cc.Component,
 
     properties: {
-        // foo: {
-        //    default: null,      // The default value will be used only when the component attaching
-        //                           to a node for the first time
-        //    url: cc.Texture2D,  // optional, default is typeof default
-        //    serializable: true, // optional, default is true
-        //    visible: true,      // optional, default is true
-        //    displayName: 'Foo', // optional
-        //    readonly: false,    // optional, default is false
-        // },
-        // ...
+        scrollView: cc.ScrollView,
+        prefabRankItem: cc.Prefab,
+        rankCount: 0
     },
 
     // use this for initialization
     onLoad: function () {
-
+        this.content = this.scrollView.content;
+        this.populateList();
     },
+    populateList: function () {
+        for (var i = 0;i < this.rankCount; ++i){
+            var playerInfo = players[i];
+            var item = cc.instantiate(this.prefabRankItem);
+            item.getComponent('RankItem').init(i,playerInfo);
+            
+            cc.log(this.content);
+            
+            this.content.addChild(item);
+        }
+    }
 
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
