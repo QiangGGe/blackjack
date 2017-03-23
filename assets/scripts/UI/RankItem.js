@@ -29,7 +29,9 @@ cc.Class({
     // use this for initialization
     onLoad: function () {
           console.log("This is Master");
+
     },
+
 
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
