@@ -10,14 +10,7 @@ cc.Class({
         texRankBG: cc.SpriteFrame,
         texPlayerPhoto: cc.SpriteFrame
     },
-    //     properties: {
-    //     spRankBG: cc.Sprite,
-    //     labelRank: cc.Label,
-    //     labelPlayerName: cc.Label,
-    //     labelGold: cc.Label,
-    //     spPlayerPhoto: cc.Sprite,
-    //     texRankBG:{
-    //         default: [],
+
 
     init: function (rank, playerInfo) {
         if (rank <3){//
@@ -35,7 +28,7 @@ cc.Class({
     },
     // use this for initialization
     onLoad: function () {
-
+          console.log("This is Master");
     },
 
     // called every frame, uncomment this function to activate update callback
