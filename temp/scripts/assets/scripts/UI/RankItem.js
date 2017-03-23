@@ -14,6 +14,7 @@ cc.Class({
         texRankBG: cc.SpriteFrame,
         texPlayerPhoto: cc.SpriteFrame
     },
+<<<<<<< HEAD
     //     properties: {
     //     spRankBG: cc.Sprite,
     //     labelRank: cc.Label,
@@ -22,6 +23,8 @@ cc.Class({
     //     spPlayerPhoto: cc.Sprite,
     //     texRankBG:{
     //         default: [],
+=======
+>>>>>>> dev
 
     init: function init(rank, playerInfo) {
         if (rank < 3) {
