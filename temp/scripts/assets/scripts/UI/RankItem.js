@@ -14,22 +14,7 @@ cc.Class({
         texRankBG: cc.SpriteFrame,
         texPlayerPhoto: cc.SpriteFrame
     },
-    //     properties: {
-    //     spRankBG: cc.Sprite,
-    //     labelRank: cc.Label,
-    //     labelPlayerName: cc.Label,
-    //     labelGold: cc.Label,
-    //     spPlayerPhoto: cc.Sprite,
-    //     texRankBG:{
-    //         default: [],
-    //         type: cc.SpriteFrame
-    //     } ,
-    //     texPlayerPhoto: {
-    //         default: [],
-    //         type: cc.SpriteFrame
-    //     }
-    //     // ...
-    // },
+
     init: function init(rank, playerInfo) {
         if (rank < 3) {
             //
