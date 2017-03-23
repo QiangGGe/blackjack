@@ -18,14 +18,7 @@ cc.Class({
     //     spPlayerPhoto: cc.Sprite,
     //     texRankBG:{
     //         default: [],
-    //         type: cc.SpriteFrame
-    //     } ,
-    //     texPlayerPhoto: {
-    //         default: [],
-    //         type: cc.SpriteFrame
-    //     }
-    //     // ...
-    // },
+
     init: function (rank, playerInfo) {
         if (rank <3){//
             this.labelRank.node.active = false;
