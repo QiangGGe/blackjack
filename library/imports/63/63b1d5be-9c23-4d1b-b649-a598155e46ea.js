@@ -10,22 +10,7 @@ cc.Class({
         texRankBG: cc.SpriteFrame,
         texPlayerPhoto: cc.SpriteFrame
     },
-    //     properties: {
-    //     spRankBG: cc.Sprite,
-    //     labelRank: cc.Label,
-    //     labelPlayerName: cc.Label,
-    //     labelGold: cc.Label,
-    //     spPlayerPhoto: cc.Sprite,
-    //     texRankBG:{
-    //         default: [],
-    //         type: cc.SpriteFrame
-    //     } ,
-    //     texPlayerPhoto: {
-    //         default: [],
-    //         type: cc.SpriteFrame
-    //     }
-    //     // ...
-    // },
+
     init: function init(rank, playerInfo) {
         if (rank < 3) {
             //
@@ -41,7 +26,9 @@ cc.Class({
         this.spPlayerPhoto.spriteFrame = this.texPlayerPhoto[playerInfo.photoIdx];
     },
     // use this for initialization
-    onLoad: function onLoad() {}
+    onLoad: function onLoad() {
+        console.log("This is Master");
+    }
 
 });
 // called every frame, uncomment this function to activate update callback
