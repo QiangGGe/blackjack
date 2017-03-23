@@ -15,7 +15,6 @@ cc.Class({
             audioMng = audioMng.getComponent('AudioMng'); //这里就是获取组件也就是js脚本
         }
         self.initScale = this.node.scale;
-        // self.button = self.getComponent(cc.Button);
         self.scaleDownAction = cc.scaleTo(self.transDuration, self.pressedScale);
         self.scaleUpAction = cc.scaleTo(self.transDuration, self.initScale);
 

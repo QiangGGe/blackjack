@@ -5,10 +5,10 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 0,
-      "y": 23,
-      "width": 1280,
-      "height": 707,
+      "x": -162,
+      "y": -1017,
+      "width": 1293,
+      "height": 735,
       "layout": {
         "children": [
           {
@@ -18,48 +18,39 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 298,
+                "height": 321,
                 "type": "panel",
-                "width": 204
+                "width": 319
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 315,
+                "height": 320,
                 "type": "panel",
-                "width": 204
+                "width": 319
               }
             ],
-            "height": 616,
+            "height": 644,
             "type": "dock-v",
-            "width": 204
+            "width": 319
           },
           {
             "active": 0,
             "children": [
               "scene"
             ],
-            "height": 616,
+            "height": 644,
             "type": "panel",
-            "width": 553
-          },
-          {
-            "active": 0,
-            "children": [
-              "node-library"
-            ],
-            "height": 616,
-            "type": "panel",
-            "width": 204
+            "width": 658
           },
           {
             "active": 0,
             "children": [
               "inspector"
             ],
-            "height": 616,
+            "height": 644,
             "type": "panel",
             "width": 304
           }
@@ -70,15 +61,15 @@
         "inspector",
         "hierarchy",
         "assets",
-        "scene",
-        "node-library"
+        "scene"
       ]
-    }
+    },
+    "worker": {}
   },
   "panels": {
     "code-editor": {
-      "x": 255,
-      "y": 53,
+      "x": 291,
+      "y": -507,
       "width": 800,
       "height": 622
     },
