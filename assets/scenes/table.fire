@@ -632,8 +632,8 @@
       "x": 0.5,
       "y": 0.5
     },
-    "_fillStart": 0.2,
-    "_fillRange": 0.4,
+    "_fillStart": 0.25,
+    "_fillRange": 0.55,
     "_isTrimmedMode": true,
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
@@ -762,7 +762,7 @@
     },
     "_N$mode": 2,
     "_N$totalLength": 1,
-    "_N$progress": 0.4,
+    "_N$progress": 0.6,
     "_N$reverse": false
   },
   {
@@ -9332,10 +9332,10 @@
         "__id__": 243
       },
       {
-        "__id__": 245
+        "__id__": 244
       },
       {
-        "__id__": 247
+        "__id__": 245
       }
     ],
     "_rotationX": 0,
@@ -9354,10 +9354,10 @@
     "_tag": -1,
     "_opacityModifyRGB": false,
     "_id": "951a7/5165NCqFaBO3G0757",
-    "_active": true,
+    "_active": false,
     "_components": [
       {
-        "__id__": 248
+        "__id__": 246
       }
     ],
     "_prefab": null,
@@ -9492,40 +9492,9 @@
     "_opacityModifyRGB": false,
     "_id": "2f558h72+hDG6HkgI3wD3hH",
     "_active": true,
-    "_components": [
-      {
-        "__id__": 244
-      }
-    ],
+    "_components": [],
     "_prefab": null,
     "groupIndex": 0
-  },
-  {
-    "__type__": "9bafczRw0JAYK+Ipb7jIXGT",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 243
-    },
-    "_enabled": true,
-    "winAudio": {
-      "__uuid__": "75e62b72-33b4-4e05-ab1a-2ded0aa0c238"
-    },
-    "loseAudio": {
-      "__uuid__": "2957f94f-e8e3-4796-922b-82493265574b"
-    },
-    "cardAudio": {
-      "__uuid__": "f2b99b3d-579d-44ef-93e1-0adf0c8e23d4"
-    },
-    "buttonAudio": {
-      "__uuid__": "9e2ae507-fae5-4511-940b-f2e46f81b790"
-    },
-    "chipsAudio": {
-      "__uuid__": "2b8266f6-c4e3-40fe-91f4-699c347a0c31"
-    },
-    "bgm": {
-      "__uuid__": "49539cb0-3893-459a-b310-7cc1b7f6d335"
-    }
   },
   {
     "__type__": "cc.Node",
@@ -9571,51 +9540,9 @@
     "_opacityModifyRGB": false,
     "_id": "ce043XE4IpHw6Oy9BgyYobQ",
     "_active": true,
-    "_components": [
-      {
-        "__id__": 246
-      }
-    ],
+    "_components": [],
     "_prefab": null,
     "groupIndex": 0
-  },
-  {
-    "__type__": "1c33c++XxNLVYnDK0BrVOxO",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 245
-    },
-    "_enabled": true,
-    "texBust": {
-      "__uuid__": "7c3b6b18-f9be-4dec-b2d4-b815a6c80b88"
-    },
-    "texCardInfo": {
-      "__uuid__": "bb3018c2-474d-4e8e-8870-67d18c74c0cd"
-    },
-    "texCountdown": {
-      "__uuid__": "e35ddbea-5981-4b36-b54d-816f61599f96"
-    },
-    "texBetCountDown": {
-      "__uuid__": "98c028b9-eeab-4ac4-99fc-cfd825004ade"
-    },
-    "playerPhotos": [
-      {
-        "__uuid__": "5411e8f8-1a17-4c27-bd4a-26f6c627a13b"
-      },
-      {
-        "__uuid__": "5fdc099b-a062-4d49-8b5a-b24ddc84db5f"
-      },
-      {
-        "__uuid__": "13a2d1fc-1883-4e80-afc0-ecd85d57ed7c"
-      },
-      {
-        "__uuid__": "b9d35f1e-9452-4222-a24a-5d4d4007fb58"
-      },
-      {
-        "__uuid__": "bc0bfda6-f0b2-463d-b4f4-1e5a6ea74207"
-      }
-    ]
   },
   {
     "__type__": "cc.Node",
@@ -9680,12 +9607,8 @@
       "__id__": 241
     },
     "betUI": null,
-    "assetMng": {
-      "__id__": 245
-    },
-    "audioMng": {
-      "__id__": 243
-    },
+    "assetMng": null,
+    "audioMng": null,
     "turnDuration": 0,
     "betDuration": 10,
     "totalChipsNum": 0,

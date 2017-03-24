@@ -16,7 +16,7 @@ cc.Class({
             "default": null,
             url: cc.AudioClip
         },
-
+        //发牌的声音
         cardAudio: {
             "default": null,
             url: cc.AudioClip
@@ -26,7 +26,7 @@ cc.Class({
             "default": null,
             url: cc.AudioClip
         },
-        //爆炸音效
+        //投掷金币音效
         chipsAudio: {
             "default": null,
             url: cc.AudioClip
