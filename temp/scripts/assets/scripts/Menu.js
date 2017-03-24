@@ -22,8 +22,7 @@ cc.Class({
 
     playGame: function playGame() {
         cc.director.loadScene('table');
-    },
-    testGame: function testGame() {}
+    }
 });
 
 cc._RFpop();

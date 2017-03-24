@@ -4,9 +4,9 @@
     "unknown"
   ],
   "names": [],
-  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,gBAAQ,EAAE,EAAE,CAAC,IAAI;KACpB;;;AAGD,UAAM,EAAE,kBAAY;;;;;AAKhB,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,OAAO,EAAC,YAAY;AACzC,cAAE,CAAC,GAAG,CAAC,uBAAuB,CAAC,CAAA;SAClC,CAAC,CAAC;KACN;;AAED,YAAQ,EAAC,oBAAY;AACjB,UAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,OAAO,CAAC,CAAC;KAClC;AACD,YAAQ,EAAC,oBAAW,EAEnB;CACJ,CAAC,CAAC",
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,gBAAQ,EAAE,EAAE,CAAC,IAAI;KACpB;;;AAGD,UAAM,EAAE,kBAAY;;;;;AAKhB,UAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,OAAO,EAAC,YAAY;AACzC,cAAE,CAAC,GAAG,CAAC,uBAAuB,CAAC,CAAA;SAClC,CAAC,CAAC;KACN;;AAED,YAAQ,EAAC,oBAAY;AACjB,UAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,OAAO,CAAC,CAAC;KAClC;CACJ,CAAC,CAAC",
   "file": "unknown",
   "sourcesContent": [
-    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        audioMng: cc.Node\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        \n        // this.audioMng = this.audioMng.getComponent('AudioMng');\n        //这里开始播放背景音效\n        // this.audioMng.playMusic();\n        cc.director.preloadScene('table',function () {\n            cc.log('Next scence preloaded')\n        });\n    },\n\n    playGame:function () {\n        cc.director.loadScene('table');\n    },\n    testGame:function (){\n        \n    }\n});\n"
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        audioMng: cc.Node\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        \n        // this.audioMng = this.audioMng.getComponent('AudioMng');\n        //这里开始播放背景音效\n        // this.audioMng.playMusic();\n        cc.director.preloadScene('table',function () {\n            cc.log('Next scence preloaded')\n        });\n    },\n\n    playGame:function () {\n        cc.director.loadScene('table');\n    }\n});\n"
   ]
 }

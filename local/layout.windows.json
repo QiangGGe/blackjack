@@ -63,13 +63,12 @@
         "assets",
         "scene"
       ]
-    },
-    "worker": {}
+    }
   },
   "panels": {
     "code-editor": {
-      "x": 291,
-      "y": -644,
+      "x": 230,
+      "y": -724,
       "width": 800,
       "height": 622
     },

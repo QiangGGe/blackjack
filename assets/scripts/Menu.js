@@ -18,8 +18,5 @@ cc.Class({
 
     playGame:function () {
         cc.director.loadScene('table');
-    },
-    testGame:function (){
-        
     }
 });

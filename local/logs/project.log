@@ -1,138 +1,69 @@
-2017-03-24T06:37:11.129Z - normal: Load ~/.CocosCreator/settings.json
-2017-03-24T06:37:11.133Z - normal: checking language setting...
-2017-03-24T06:37:11.134Z - normal: Language: zh
-2017-03-24T06:37:11.581Z - success: protocol editor-framework registered
-2017-03-24T06:37:11.581Z - success: protocol app registered
-2017-03-24T06:37:11.581Z - success: protocol theme registered
-2017-03-24T06:37:11.581Z - success: protocol profile registered
-2017-03-24T06:37:11.581Z - success: protocol packages registered
-2017-03-24T06:37:11.584Z - success: protocol unpack registerred
-2017-03-24T06:37:11.584Z - success: protocol disable-commonjs registerred
-2017-03-24T06:37:11.981Z - normal: connected!
-2017-03-24T06:37:11.983Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T06:37:11.984Z - normal: Initializing Cocos2d
-2017-03-24T06:37:12.207Z - normal: Initializing Asset Database
-2017-03-24T06:37:12.230Z - success: protocol uuid registerred
-2017-03-24T06:37:12.230Z - success: protocol db registerred
-2017-03-24T06:37:12.230Z - success: protocol thumbnail registerred
-2017-03-24T06:37:12.231Z - normal: Loading editor/builtin packages
-2017-03-24T06:37:12.365Z - success: assets loaded
-2017-03-24T06:37:12.369Z - success: builder loaded
-2017-03-24T06:37:12.374Z - success: hierarchy loaded
-2017-03-24T06:37:12.380Z - success: inspector loaded
-2017-03-24T06:37:12.383Z - success: keystore loaded
-2017-03-24T06:37:12.387Z - success: node-library loaded
-2017-03-24T06:37:12.391Z - success: preferences loaded
-2017-03-24T06:37:12.405Z - success: project-importer loaded
-2017-03-24T06:37:12.410Z - success: project-settings loaded
-2017-03-24T06:37:12.414Z - success: ui-kit loaded
-2017-03-24T06:37:12.419Z - success: ui-grid loaded
-2017-03-24T06:37:12.424Z - success: scene loaded
-2017-03-24T06:37:12.426Z - success: sprite-editor loaded
-2017-03-24T06:37:12.468Z - success: store loaded
-2017-03-24T06:37:12.474Z - success: timeline loaded
-2017-03-24T06:37:12.475Z - normal: Loading builtin packages
-2017-03-24T06:37:12.481Z - success: anysdk loaded
-2017-03-24T06:37:12.484Z - success: asset-db-debugger loaded
-2017-03-24T06:37:12.486Z - success: code-editor loaded
-2017-03-24T06:37:12.487Z - success: color-picker loaded
-2017-03-24T06:37:12.493Z - success: console loaded
-2017-03-24T06:37:12.498Z - success: package-manager loaded
-2017-03-24T06:37:12.504Z - success: tester loaded
-2017-03-24T06:37:12.508Z - success: ui-kit-preview-extra loaded
-2017-03-24T06:37:12.511Z - success: ui-kit-preview loaded
-2017-03-24T06:37:12.516Z - success: ui-tree loaded
-2017-03-24T06:37:12.571Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T06:37:12.575Z - normal: Loading packages
-2017-03-24T06:37:12.580Z - normal: Watching packages
-2017-03-24T06:37:12.594Z - normal: Run Application
-2017-03-24T06:37:14.072Z - success: preview server running at http://localhost:7457
-2017-03-24T06:37:14.072Z - normal: Compiling scripts...
-2017-03-24T06:37:17.087Z - normal: Compiled project javascript file successfully
-2017-03-24T06:37:22.328Z - normal: 1.4.0
-2017-03-24T06:37:25.564Z - warn: Script attached to "btnBack" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/btnBack"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
+2017-03-24T06:55:44.074Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-24T06:55:44.081Z - normal: checking language setting...
+2017-03-24T06:55:44.082Z - normal: Language: zh
+2017-03-24T06:55:44.480Z - success: protocol editor-framework registered
+2017-03-24T06:55:44.480Z - success: protocol app registered
+2017-03-24T06:55:44.480Z - success: protocol theme registered
+2017-03-24T06:55:44.480Z - success: protocol profile registered
+2017-03-24T06:55:44.480Z - success: protocol packages registered
+2017-03-24T06:55:44.483Z - success: protocol unpack registerred
+2017-03-24T06:55:44.483Z - success: protocol disable-commonjs registerred
+2017-03-24T06:55:44.833Z - normal: connected!
+2017-03-24T06:55:44.836Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-03-24T06:55:44.839Z - normal: Initializing Cocos2d
+2017-03-24T06:55:45.022Z - normal: Initializing Asset Database
+2017-03-24T06:55:45.039Z - success: protocol uuid registerred
+2017-03-24T06:55:45.039Z - success: protocol db registerred
+2017-03-24T06:55:45.039Z - success: protocol thumbnail registerred
+2017-03-24T06:55:45.040Z - normal: Loading editor/builtin packages
+2017-03-24T06:55:45.153Z - success: assets loaded
+2017-03-24T06:55:45.156Z - success: builder loaded
+2017-03-24T06:55:45.161Z - success: hierarchy loaded
+2017-03-24T06:55:45.165Z - success: inspector loaded
+2017-03-24T06:55:45.167Z - success: keystore loaded
+2017-03-24T06:55:45.171Z - success: node-library loaded
+2017-03-24T06:55:45.175Z - success: preferences loaded
+2017-03-24T06:55:45.189Z - success: project-importer loaded
+2017-03-24T06:55:45.192Z - success: project-settings loaded
+2017-03-24T06:55:45.196Z - success: ui-kit loaded
+2017-03-24T06:55:45.200Z - success: ui-grid loaded
+2017-03-24T06:55:45.204Z - success: scene loaded
+2017-03-24T06:55:45.205Z - success: sprite-editor loaded
+2017-03-24T06:55:45.238Z - success: store loaded
+2017-03-24T06:55:45.244Z - success: timeline loaded
+2017-03-24T06:55:45.244Z - normal: Loading builtin packages
+2017-03-24T06:55:45.248Z - success: anysdk loaded
+2017-03-24T06:55:45.251Z - success: asset-db-debugger loaded
+2017-03-24T06:55:45.253Z - success: code-editor loaded
+2017-03-24T06:55:45.253Z - success: color-picker loaded
+2017-03-24T06:55:45.257Z - success: console loaded
+2017-03-24T06:55:45.262Z - success: package-manager loaded
+2017-03-24T06:55:45.267Z - success: tester loaded
+2017-03-24T06:55:45.271Z - success: ui-kit-preview-extra loaded
+2017-03-24T06:55:45.273Z - success: ui-kit-preview loaded
+2017-03-24T06:55:45.277Z - success: ui-tree loaded
+2017-03-24T06:55:45.325Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-03-24T06:55:45.327Z - normal: Loading packages
+2017-03-24T06:55:45.332Z - normal: Watching packages
+2017-03-24T06:55:45.346Z - normal: Run Application
+2017-03-24T06:55:45.788Z - success: preview server running at http://localhost:7456
+2017-03-24T06:55:49.083Z - normal: 1.4.0
+2017-03-24T06:55:49.603Z - warn: Script attached to "InGameUI" in scene "table.fire" is missing or invalid. Detailed information:
+Node path: "Game/InGameUI"
+Asset url: "db://assets/scenes/table.fire"
+Script UUID: "7302f2c7-e518-48dc-a4e9-4ba477197e1a"
+Class ID: "7302fLH5RhI3KTpS6R3GX4a"
 
-2017-03-24T06:37:25.566Z - warn: Script attached to "btnMsg" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/btnMsg"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
+2017-03-24T06:55:49.604Z - warn: Script attached to "AssetMng" in scene "table.fire" is missing or invalid. Detailed information:
+Node path: "Game/AssetMng"
+Asset url: "db://assets/scenes/table.fire"
+Script UUID: "1c33cfbe-5f13-4b55-89c3-2b406b54ec4e"
+Class ID: "1c33c++XxNLVYnDK0BrVOxO"
 
-2017-03-24T06:37:25.638Z - warn: Script attached to "diamond" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/bottom/diamond"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
+2017-03-24T06:55:49.608Z - warn: Script attached to "Game" in scene "table.fire" is missing or invalid. Detailed information:
+Node path: "Game"
+Asset url: "db://assets/scenes/table.fire"
+Script UUID: "3f6c9fc2-9a2b-4afb-9d6d-cbd211049ea2"
+Class ID: "3f6c9/CmitK+51ty9IRBJ6i"
 
-2017-03-24T06:37:25.639Z - warn: Script attached to "gold" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/bottom/gold"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.639Z - warn: Script attached to "btnRule" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/bottom/btnRule"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.640Z - warn: Script attached to "btnSetting" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/bottom/btnSetting"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.640Z - warn: Script attached to "btnQuickStart" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/center/btnQuickStart"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.641Z - warn: Script attached to "btnQuickStart" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/center/btnQuickStart"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "e8f79f03-eca5-419e-a29a-6b09b2c5f739"
-Class ID: "e8f798D7KVBnqKaawmyxfc5"
-
-2017-03-24T06:37:25.641Z - warn: Script attached to "AudioMng" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Menu/AudioMng"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "9bafccd1-c342-4060-af88-a5bee3217193"
-Class ID: "9bafczRw0JAYK+Ipb7jIXGT"
-
-2017-03-24T06:37:25.641Z - warn: Script attached to "RankList" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Menu/RankList"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "79f9ae3b-cdb9-4a2a-ad55-0e3525ef04d7"
-Class ID: "79f9a47zblKKq1VDjUl7wTX"
-
-2017-03-24T06:37:25.642Z - warn: Script attached to "Menu" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Menu"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "e8f79f03-eca5-419e-a29a-6b09b2c5f739"
-Class ID: "e8f798D7KVBnqKaawmyxfc5"
-
-2017-03-24T06:37:25.642Z - warn: Script attached to "btnAdvance" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/center/btnAdvance"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.643Z - warn: Script attached to "btnTournament" in scene "menu.fire" is missing or invalid. Detailed information:
-Node path: "Canvas/center/btnTournament"
-Asset url: "db://assets/scenes/menu.fire"
-Script UUID: "d8ccb077-88d5-4a18-aaa2-df4fcb2d0956"
-Class ID: "d8ccbB3iNVKGKqi30/LLQlW"
-
-2017-03-24T06:37:25.736Z - warn: Script attached to "rankItem" in prefab "rankItem.prefab" is missing or invalid. Detailed information:
-Node path: "rankItem"
-Asset url: "db://assets/prefabs/rankItem.prefab"
-Script UUID: "63b1d5be-9c23-4d1b-b649-a598155e46ea"
-Class ID: "63b1dW+nCNNG7ZJpZgVXkbq"
-
-2017-03-24T06:37:27.880Z - normal: Compiled project javascript file successfully
-2017-03-24T06:48:44.212Z - normal: Compiled project javascript file successfully
+2017-03-24T06:56:10.178Z - info: shutdown preview server
