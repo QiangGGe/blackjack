@@ -4,7 +4,7 @@ cc._RFpush(module, '1c33c++XxNLVYnDK0BrVOxO', 'AssetMng');
 
 var AssetMng = cc.Class({
     "extends": cc.Component,
-
+    //这里类是控制资源的类
     properties: {
         texBust: cc.SpriteFrame, //爆牌资源
         texCardInfo: cc.SpriteFrame, //牌数（个人认为是停牌后的背景资源）

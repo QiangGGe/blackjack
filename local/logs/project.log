@@ -1,97 +1,52 @@
-2017-03-24T01:35:22.608Z - normal: Load ~/.CocosCreator/settings.json
-2017-03-24T01:35:22.612Z - normal: checking language setting...
-2017-03-24T01:35:22.612Z - normal: Language: zh
-2017-03-24T01:35:23.001Z - success: protocol editor-framework registered
-2017-03-24T01:35:23.001Z - success: protocol app registered
-2017-03-24T01:35:23.001Z - success: protocol theme registered
-2017-03-24T01:35:23.002Z - success: protocol profile registered
-2017-03-24T01:35:23.002Z - success: protocol packages registered
-2017-03-24T01:35:23.004Z - success: protocol unpack registerred
-2017-03-24T01:35:23.005Z - success: protocol disable-commonjs registerred
-2017-03-24T01:35:23.329Z - normal: connected!
-2017-03-24T01:35:23.331Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T01:35:23.332Z - normal: Initializing Cocos2d
-2017-03-24T01:35:23.524Z - normal: Initializing Asset Database
-2017-03-24T01:35:23.544Z - success: protocol uuid registerred
-2017-03-24T01:35:23.544Z - success: protocol db registerred
-2017-03-24T01:35:23.544Z - success: protocol thumbnail registerred
-2017-03-24T01:35:23.544Z - normal: Loading editor/builtin packages
-2017-03-24T01:35:23.676Z - success: assets loaded
-2017-03-24T01:35:23.680Z - success: builder loaded
-2017-03-24T01:35:23.685Z - success: hierarchy loaded
-2017-03-24T01:35:23.690Z - success: inspector loaded
-2017-03-24T01:35:23.692Z - success: keystore loaded
-2017-03-24T01:35:23.696Z - success: node-library loaded
-2017-03-24T01:35:23.699Z - success: preferences loaded
-2017-03-24T01:35:23.715Z - success: project-importer loaded
-2017-03-24T01:35:23.718Z - success: project-settings loaded
-2017-03-24T01:35:23.721Z - success: ui-kit loaded
-2017-03-24T01:35:23.726Z - success: ui-grid loaded
-2017-03-24T01:35:23.730Z - success: scene loaded
-2017-03-24T01:35:23.732Z - success: sprite-editor loaded
-2017-03-24T01:35:23.775Z - success: store loaded
-2017-03-24T01:35:23.781Z - success: timeline loaded
-2017-03-24T01:35:23.781Z - normal: Loading builtin packages
-2017-03-24T01:35:23.786Z - success: anysdk loaded
-2017-03-24T01:35:23.788Z - success: asset-db-debugger loaded
-2017-03-24T01:35:23.790Z - success: code-editor loaded
-2017-03-24T01:35:23.791Z - success: color-picker loaded
-2017-03-24T01:35:23.796Z - success: console loaded
-2017-03-24T01:35:23.799Z - success: package-manager loaded
-2017-03-24T01:35:23.803Z - success: tester loaded
-2017-03-24T01:35:23.807Z - success: ui-kit-preview-extra loaded
-2017-03-24T01:35:23.810Z - success: ui-kit-preview loaded
-2017-03-24T01:35:23.815Z - success: ui-tree loaded
-2017-03-24T01:35:23.863Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T01:35:23.866Z - normal: Loading packages
-2017-03-24T01:35:23.870Z - normal: Watching packages
-2017-03-24T01:35:23.882Z - normal: Run Application
-2017-03-24T01:35:24.359Z - success: preview server running at http://localhost:7456
-2017-03-24T01:35:27.831Z - normal: 1.4.0
-2017-03-24T01:57:03.153Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
-Node path: "Button"
-Missing uuid: "f0048c10-f03e-4c97-b9d3-3506e1d58952"
-
-2017-03-24T01:57:03.157Z - warn: The Asset used by component "cc.Button" is missing. Detailed information:
-Node path: "Button"
-Missing uuid: "e9ec654c-97a2-4787-9325-e6a10375219a"
-
-2017-03-24T01:57:03.158Z - warn: The Asset used by component "cc.Button" is missing. Detailed information:
-Node path: "Button"
-Missing uuid: "e9ec654c-97a2-4787-9325-e6a10375219a"
-
-2017-03-24T01:57:03.159Z - warn: The Asset used by component "cc.Button" is missing. Detailed information:
-Node path: "Button"
-Missing uuid: "f0048c10-f03e-4c97-b9d3-3506e1d58952"
-
-2017-03-24T01:57:03.159Z - warn: The Asset used by component "cc.Button" is missing. Detailed information:
-Node path: "Button"
-Missing uuid: "29158224-f8dd-4661-a796-1ffab537140e"
-
-2017-03-24T02:06:53.486Z - error: TypeError: s.canAddChild is not a function
-    at assets-tree._onDropAreaMove (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/assets/panel/assets-tree.js:1:9406)
-    at assets-tree.handler (app://bower_components/polymer/polymer.html:471:17)
-    at Object.DomUtils.fire (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.js:1:2005)
-    at assets-tree.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/behaviors/droppable.js:1:1997)
-2017-03-24T02:32:21.691Z - error: TypeError: s.canAddChild is not a function
-    at assets-tree._onDropAreaMove (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/assets/panel/assets-tree.js:1:9406)
-    at assets-tree.handler (app://bower_components/polymer/polymer.html:471:17)
-    at Object.DomUtils.fire (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.js:1:2005)
-    at assets-tree.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/behaviors/droppable.js:1:1997)
-2017-03-24T02:33:29.342Z - error: TypeError: s.canAddChild is not a function
-    at assets-tree._onDropAreaMove (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/assets/panel/assets-tree.js:1:9406)
-    at assets-tree.handler (app://bower_components/polymer/polymer.html:471:17)
-    at Object.DomUtils.fire (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.js:1:2005)
-    at assets-tree.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/behaviors/droppable.js:1:1997)
-2017-03-24T02:45:13.488Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
-    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCAssetLibrary.js:83:25)
-    at /Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/load-pipeline/CCLoader.js:229:38
-    at /Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/utils.js:65:21
-    at _combinedTickCallback (internal/process/next_tick.js:67:7)
-    at process._tickCallback (internal/process/next_tick.js:98:9)
-2017-03-24T03:05:56.000Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
-    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/CCAssetLibrary.js:83:25)
-    at /Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/load-pipeline/CCLoader.js:229:38
-    at /Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/platform/utils.js:65:21
-    at _combinedTickCallback (internal/process/next_tick.js:67:7)
-    at process._tickCallback (internal/process/next_tick.js:98:9)
+2017-03-24T06:57:29.598Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-24T06:57:29.603Z - normal: checking language setting...
+2017-03-24T06:57:29.603Z - normal: Language: zh
+2017-03-24T06:57:29.949Z - success: protocol editor-framework registered
+2017-03-24T06:57:29.950Z - success: protocol app registered
+2017-03-24T06:57:29.950Z - success: protocol theme registered
+2017-03-24T06:57:29.950Z - success: protocol profile registered
+2017-03-24T06:57:29.950Z - success: protocol packages registered
+2017-03-24T06:57:29.953Z - success: protocol unpack registerred
+2017-03-24T06:57:29.953Z - success: protocol disable-commonjs registerred
+2017-03-24T06:57:30.339Z - normal: connected!
+2017-03-24T06:57:30.342Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-03-24T06:57:30.343Z - normal: Initializing Cocos2d
+2017-03-24T06:57:30.484Z - normal: Initializing Asset Database
+2017-03-24T06:57:30.502Z - success: protocol uuid registerred
+2017-03-24T06:57:30.502Z - success: protocol db registerred
+2017-03-24T06:57:30.502Z - success: protocol thumbnail registerred
+2017-03-24T06:57:30.502Z - normal: Loading editor/builtin packages
+2017-03-24T06:57:30.605Z - success: assets loaded
+2017-03-24T06:57:30.608Z - success: builder loaded
+2017-03-24T06:57:30.613Z - success: hierarchy loaded
+2017-03-24T06:57:30.620Z - success: inspector loaded
+2017-03-24T06:57:30.622Z - success: keystore loaded
+2017-03-24T06:57:30.626Z - success: node-library loaded
+2017-03-24T06:57:30.629Z - success: preferences loaded
+2017-03-24T06:57:30.643Z - success: project-importer loaded
+2017-03-24T06:57:30.646Z - success: project-settings loaded
+2017-03-24T06:57:30.649Z - success: ui-kit loaded
+2017-03-24T06:57:30.653Z - success: ui-grid loaded
+2017-03-24T06:57:30.657Z - success: scene loaded
+2017-03-24T06:57:30.659Z - success: sprite-editor loaded
+2017-03-24T06:57:30.690Z - success: store loaded
+2017-03-24T06:57:30.695Z - success: timeline loaded
+2017-03-24T06:57:30.696Z - normal: Loading builtin packages
+2017-03-24T06:57:30.700Z - success: anysdk loaded
+2017-03-24T06:57:30.703Z - success: asset-db-debugger loaded
+2017-03-24T06:57:30.704Z - success: code-editor loaded
+2017-03-24T06:57:30.705Z - success: color-picker loaded
+2017-03-24T06:57:30.709Z - success: console loaded
+2017-03-24T06:57:30.713Z - success: package-manager loaded
+2017-03-24T06:57:30.719Z - success: tester loaded
+2017-03-24T06:57:30.722Z - success: ui-kit-preview-extra loaded
+2017-03-24T06:57:30.725Z - success: ui-kit-preview loaded
+2017-03-24T06:57:30.729Z - success: ui-tree loaded
+2017-03-24T06:57:30.772Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-03-24T06:57:30.774Z - normal: Loading packages
+2017-03-24T06:57:30.779Z - normal: Watching packages
+2017-03-24T06:57:30.790Z - normal: Run Application
+2017-03-24T06:57:32.014Z - success: preview server running at http://localhost:7456
+2017-03-24T06:57:32.014Z - normal: Compiling scripts...
+2017-03-24T06:57:33.591Z - normal: Compiled project javascript file successfully
+2017-03-24T06:57:36.893Z - normal: 1.4.0
