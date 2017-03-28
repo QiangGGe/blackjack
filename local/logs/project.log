@@ -1,52 +1,51 @@
-2017-03-24T06:57:29.598Z - normal: Load ~/.CocosCreator/settings.json
-2017-03-24T06:57:29.603Z - normal: checking language setting...
-2017-03-24T06:57:29.603Z - normal: Language: zh
-2017-03-24T06:57:29.949Z - success: protocol editor-framework registered
-2017-03-24T06:57:29.950Z - success: protocol app registered
-2017-03-24T06:57:29.950Z - success: protocol theme registered
-2017-03-24T06:57:29.950Z - success: protocol profile registered
-2017-03-24T06:57:29.950Z - success: protocol packages registered
-2017-03-24T06:57:29.953Z - success: protocol unpack registerred
-2017-03-24T06:57:29.953Z - success: protocol disable-commonjs registerred
-2017-03-24T06:57:30.339Z - normal: connected!
-2017-03-24T06:57:30.342Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T06:57:30.343Z - normal: Initializing Cocos2d
-2017-03-24T06:57:30.484Z - normal: Initializing Asset Database
-2017-03-24T06:57:30.502Z - success: protocol uuid registerred
-2017-03-24T06:57:30.502Z - success: protocol db registerred
-2017-03-24T06:57:30.502Z - success: protocol thumbnail registerred
-2017-03-24T06:57:30.502Z - normal: Loading editor/builtin packages
-2017-03-24T06:57:30.605Z - success: assets loaded
-2017-03-24T06:57:30.608Z - success: builder loaded
-2017-03-24T06:57:30.613Z - success: hierarchy loaded
-2017-03-24T06:57:30.620Z - success: inspector loaded
-2017-03-24T06:57:30.622Z - success: keystore loaded
-2017-03-24T06:57:30.626Z - success: node-library loaded
-2017-03-24T06:57:30.629Z - success: preferences loaded
-2017-03-24T06:57:30.643Z - success: project-importer loaded
-2017-03-24T06:57:30.646Z - success: project-settings loaded
-2017-03-24T06:57:30.649Z - success: ui-kit loaded
-2017-03-24T06:57:30.653Z - success: ui-grid loaded
-2017-03-24T06:57:30.657Z - success: scene loaded
-2017-03-24T06:57:30.659Z - success: sprite-editor loaded
-2017-03-24T06:57:30.690Z - success: store loaded
-2017-03-24T06:57:30.695Z - success: timeline loaded
-2017-03-24T06:57:30.696Z - normal: Loading builtin packages
-2017-03-24T06:57:30.700Z - success: anysdk loaded
-2017-03-24T06:57:30.703Z - success: asset-db-debugger loaded
-2017-03-24T06:57:30.704Z - success: code-editor loaded
-2017-03-24T06:57:30.705Z - success: color-picker loaded
-2017-03-24T06:57:30.709Z - success: console loaded
-2017-03-24T06:57:30.713Z - success: package-manager loaded
-2017-03-24T06:57:30.719Z - success: tester loaded
-2017-03-24T06:57:30.722Z - success: ui-kit-preview-extra loaded
-2017-03-24T06:57:30.725Z - success: ui-kit-preview loaded
-2017-03-24T06:57:30.729Z - success: ui-tree loaded
-2017-03-24T06:57:30.772Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-03-24T06:57:30.774Z - normal: Loading packages
-2017-03-24T06:57:30.779Z - normal: Watching packages
-2017-03-24T06:57:30.790Z - normal: Run Application
-2017-03-24T06:57:32.014Z - success: preview server running at http://localhost:7456
-2017-03-24T06:57:32.014Z - normal: Compiling scripts...
-2017-03-24T06:57:33.591Z - normal: Compiled project javascript file successfully
-2017-03-24T06:57:36.893Z - normal: 1.4.0
+2017-03-28T08:57:30.258Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-28T08:57:30.262Z - normal: checking language setting...
+2017-03-28T08:57:30.262Z - normal: Language: zh
+2017-03-28T08:57:30.625Z - success: protocol editor-framework registered
+2017-03-28T08:57:30.625Z - success: protocol app registered
+2017-03-28T08:57:30.625Z - success: protocol theme registered
+2017-03-28T08:57:30.625Z - success: protocol profile registered
+2017-03-28T08:57:30.625Z - success: protocol packages registered
+2017-03-28T08:57:30.628Z - success: protocol unpack registerred
+2017-03-28T08:57:30.628Z - success: protocol disable-commonjs registerred
+2017-03-28T08:57:31.005Z - normal: connected!
+2017-03-28T08:57:31.007Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-03-28T08:57:31.008Z - normal: Initializing Cocos2d
+2017-03-28T08:57:31.195Z - normal: Initializing Asset Database
+2017-03-28T08:57:31.211Z - success: protocol uuid registerred
+2017-03-28T08:57:31.212Z - success: protocol db registerred
+2017-03-28T08:57:31.212Z - success: protocol thumbnail registerred
+2017-03-28T08:57:31.212Z - normal: Loading editor/builtin packages
+2017-03-28T08:57:31.323Z - success: assets loaded
+2017-03-28T08:57:31.326Z - success: builder loaded
+2017-03-28T08:57:31.330Z - success: hierarchy loaded
+2017-03-28T08:57:31.337Z - success: inspector loaded
+2017-03-28T08:57:31.341Z - success: keystore loaded
+2017-03-28T08:57:31.345Z - success: node-library loaded
+2017-03-28T08:57:31.348Z - success: preferences loaded
+2017-03-28T08:57:31.361Z - success: project-importer loaded
+2017-03-28T08:57:31.364Z - success: project-settings loaded
+2017-03-28T08:57:31.368Z - success: ui-kit loaded
+2017-03-28T08:57:31.373Z - success: ui-grid loaded
+2017-03-28T08:57:31.376Z - success: scene loaded
+2017-03-28T08:57:31.378Z - success: sprite-editor loaded
+2017-03-28T08:57:31.414Z - success: store loaded
+2017-03-28T08:57:31.419Z - success: timeline loaded
+2017-03-28T08:57:31.419Z - normal: Loading builtin packages
+2017-03-28T08:57:31.424Z - success: anysdk loaded
+2017-03-28T08:57:31.427Z - success: asset-db-debugger loaded
+2017-03-28T08:57:31.428Z - success: code-editor loaded
+2017-03-28T08:57:31.429Z - success: color-picker loaded
+2017-03-28T08:57:31.433Z - success: console loaded
+2017-03-28T08:57:31.437Z - success: package-manager loaded
+2017-03-28T08:57:31.441Z - success: tester loaded
+2017-03-28T08:57:31.444Z - success: ui-kit-preview-extra loaded
+2017-03-28T08:57:31.448Z - success: ui-kit-preview loaded
+2017-03-28T08:57:31.451Z - success: ui-tree loaded
+2017-03-28T08:57:31.498Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-03-28T08:57:31.501Z - normal: Loading packages
+2017-03-28T08:57:31.506Z - normal: Watching packages
+2017-03-28T08:57:31.517Z - normal: Run Application
+2017-03-28T08:57:32.174Z - success: preview server running at http://localhost:7456
+2017-03-28T08:57:35.389Z - normal: 1.4.0
+2017-03-28T09:10:38.334Z - normal: Compiled project javascript file successfully

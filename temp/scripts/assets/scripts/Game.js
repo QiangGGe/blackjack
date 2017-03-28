@@ -35,8 +35,8 @@ cc.Class({
     onLoad: function onLoad() {
         // Game.instance = this;
         this.inGameUI = this.inGameUI.getComponent('InGameUI');
-        this.assetMng = this.assetMng.getComponent('AssetMng');
-        this.audioMng = this.audioMng.getComponent('AudioMng');
+        // this.assetMng = this.assetMng.getComponent('AssetMng');
+        // this.audioMng = this.audioMng.getComponent('AudioMng');
 
         this.inGameUI.init(this.betDuration);
         this.inGameUI.startCountDown();
