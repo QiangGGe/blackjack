@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chipToss",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.2833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": [
+            [
+              -101,
+              162,
+              -26,
+              111,
+              -176,
+              211
+            ]
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -300,
+            200
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": [
+            -280,
+            200
+          ]
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": [
+            -314,
+            200
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

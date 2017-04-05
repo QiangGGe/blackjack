@@ -15,7 +15,7 @@ cc.Class({
         resultTxt: cc.Label, //结果文字提示
         betCounter: cc.ProgressBar, //游戏倒计时
         btnStart: cc.Node, //开始游戏按钮
-        labelTotalChips: cc.Label //
+        labelTotalChips: cc.Label //用户拥有的总的金币数label
     },
 
     // use this for initialization

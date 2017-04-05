@@ -1,51 +1,254 @@
-2017-03-28T08:57:30.258Z - normal: Load ~/.CocosCreator/settings.json
-2017-03-28T08:57:30.262Z - normal: checking language setting...
-2017-03-28T08:57:30.262Z - normal: Language: zh
-2017-03-28T08:57:30.625Z - success: protocol editor-framework registered
-2017-03-28T08:57:30.625Z - success: protocol app registered
-2017-03-28T08:57:30.625Z - success: protocol theme registered
-2017-03-28T08:57:30.625Z - success: protocol profile registered
-2017-03-28T08:57:30.625Z - success: protocol packages registered
-2017-03-28T08:57:30.628Z - success: protocol unpack registerred
-2017-03-28T08:57:30.628Z - success: protocol disable-commonjs registerred
-2017-03-28T08:57:31.005Z - normal: connected!
-2017-03-28T08:57:31.007Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-03-28T08:57:31.008Z - normal: Initializing Cocos2d
-2017-03-28T08:57:31.195Z - normal: Initializing Asset Database
-2017-03-28T08:57:31.211Z - success: protocol uuid registerred
-2017-03-28T08:57:31.212Z - success: protocol db registerred
-2017-03-28T08:57:31.212Z - success: protocol thumbnail registerred
-2017-03-28T08:57:31.212Z - normal: Loading editor/builtin packages
-2017-03-28T08:57:31.323Z - success: assets loaded
-2017-03-28T08:57:31.326Z - success: builder loaded
-2017-03-28T08:57:31.330Z - success: hierarchy loaded
-2017-03-28T08:57:31.337Z - success: inspector loaded
-2017-03-28T08:57:31.341Z - success: keystore loaded
-2017-03-28T08:57:31.345Z - success: node-library loaded
-2017-03-28T08:57:31.348Z - success: preferences loaded
-2017-03-28T08:57:31.361Z - success: project-importer loaded
-2017-03-28T08:57:31.364Z - success: project-settings loaded
-2017-03-28T08:57:31.368Z - success: ui-kit loaded
-2017-03-28T08:57:31.373Z - success: ui-grid loaded
-2017-03-28T08:57:31.376Z - success: scene loaded
-2017-03-28T08:57:31.378Z - success: sprite-editor loaded
-2017-03-28T08:57:31.414Z - success: store loaded
-2017-03-28T08:57:31.419Z - success: timeline loaded
-2017-03-28T08:57:31.419Z - normal: Loading builtin packages
-2017-03-28T08:57:31.424Z - success: anysdk loaded
-2017-03-28T08:57:31.427Z - success: asset-db-debugger loaded
-2017-03-28T08:57:31.428Z - success: code-editor loaded
-2017-03-28T08:57:31.429Z - success: color-picker loaded
-2017-03-28T08:57:31.433Z - success: console loaded
-2017-03-28T08:57:31.437Z - success: package-manager loaded
-2017-03-28T08:57:31.441Z - success: tester loaded
-2017-03-28T08:57:31.444Z - success: ui-kit-preview-extra loaded
-2017-03-28T08:57:31.448Z - success: ui-kit-preview loaded
-2017-03-28T08:57:31.451Z - success: ui-tree loaded
-2017-03-28T08:57:31.498Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-03-28T08:57:31.501Z - normal: Loading packages
-2017-03-28T08:57:31.506Z - normal: Watching packages
-2017-03-28T08:57:31.517Z - normal: Run Application
-2017-03-28T08:57:32.174Z - success: preview server running at http://localhost:7456
-2017-03-28T08:57:35.389Z - normal: 1.4.0
-2017-03-28T09:10:38.334Z - normal: Compiled project javascript file successfully
+2017-04-05T11:46:56.339Z - normal: Load ~/.CocosCreator/settings.json
+2017-04-05T11:46:56.347Z - normal: checking language setting...
+2017-04-05T11:46:56.348Z - normal: Language: zh
+2017-04-05T11:46:56.782Z - success: protocol editor-framework registered
+2017-04-05T11:46:56.782Z - success: protocol app registered
+2017-04-05T11:46:56.782Z - success: protocol theme registered
+2017-04-05T11:46:56.782Z - success: protocol profile registered
+2017-04-05T11:46:56.783Z - success: protocol packages registered
+2017-04-05T11:46:56.786Z - success: protocol unpack registerred
+2017-04-05T11:46:56.786Z - success: protocol disable-commonjs registerred
+2017-04-05T11:46:57.250Z - normal: connected!
+2017-04-05T11:46:57.252Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-04-05T11:46:57.253Z - normal: Initializing Cocos2d
+2017-04-05T11:46:57.452Z - normal: Initializing Asset Database
+2017-04-05T11:46:57.471Z - success: protocol uuid registerred
+2017-04-05T11:46:57.471Z - success: protocol db registerred
+2017-04-05T11:46:57.472Z - success: protocol thumbnail registerred
+2017-04-05T11:46:57.472Z - normal: Loading editor/builtin packages
+2017-04-05T11:46:57.608Z - success: assets loaded
+2017-04-05T11:46:57.615Z - success: builder loaded
+2017-04-05T11:46:57.628Z - success: hierarchy loaded
+2017-04-05T11:46:57.645Z - success: inspector loaded
+2017-04-05T11:46:57.647Z - success: keystore loaded
+2017-04-05T11:46:57.655Z - success: node-library loaded
+2017-04-05T11:46:57.664Z - success: preferences loaded
+2017-04-05T11:46:57.682Z - success: project-importer loaded
+2017-04-05T11:46:57.691Z - success: project-settings loaded
+2017-04-05T11:46:57.697Z - success: ui-kit loaded
+2017-04-05T11:46:57.705Z - success: ui-grid loaded
+2017-04-05T11:46:57.713Z - success: scene loaded
+2017-04-05T11:46:57.715Z - success: sprite-editor loaded
+2017-04-05T11:46:57.781Z - success: store loaded
+2017-04-05T11:46:57.791Z - success: timeline loaded
+2017-04-05T11:46:57.791Z - normal: Loading builtin packages
+2017-04-05T11:46:57.802Z - success: anysdk loaded
+2017-04-05T11:46:57.805Z - success: asset-db-debugger loaded
+2017-04-05T11:46:57.807Z - success: code-editor loaded
+2017-04-05T11:46:57.808Z - success: color-picker loaded
+2017-04-05T11:46:57.814Z - success: console loaded
+2017-04-05T11:46:57.819Z - success: package-manager loaded
+2017-04-05T11:46:57.824Z - success: tester loaded
+2017-04-05T11:46:57.828Z - success: ui-kit-preview-extra loaded
+2017-04-05T11:46:57.831Z - success: ui-kit-preview loaded
+2017-04-05T11:46:57.836Z - success: ui-tree loaded
+2017-04-05T11:46:57.893Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-04-05T11:46:57.897Z - normal: Loading packages
+2017-04-05T11:46:57.907Z - normal: Watching packages
+2017-04-05T11:46:57.920Z - normal: Run Application
+2017-04-05T11:46:58.932Z - success: preview server running at http://localhost:7457
+2017-04-05T11:47:03.293Z - normal: 1.4.0
+2017-04-05T11:59:41.097Z - normal: Compiled project javascript file successfully
+2017-04-05T12:07:33.379Z - normal: Compiled project javascript file successfully
+2017-04-05T12:07:57.673Z - normal: Compiled project javascript file successfully
+2017-04-05T12:10:14.384Z - normal: Compiled project javascript file successfully
+2017-04-05T12:10:47.116Z - normal: Compiled project javascript file successfully
+2017-04-05T12:11:05.646Z - normal: Compiled project javascript file successfully
+2017-04-05T12:14:31.926Z - normal: Compiled project javascript file successfully
+2017-04-05T12:14:31.930Z - error: Compile error: Cannot require 'Utils' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:14:41.246Z - normal: Compiled project javascript file successfully
+2017-04-05T12:14:41.247Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:14:54.662Z - normal: Compiled project javascript file successfully
+2017-04-05T12:14:54.663Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:15:56.802Z - normal: Compiled project javascript file successfully
+2017-04-05T12:15:56.805Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:17:45.444Z - normal: Compiled project javascript file successfully
+2017-04-05T12:17:45.445Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:42:45.924Z - normal: Compiled project javascript file successfully
+2017-04-05T12:42:45.926Z - error: Compile error: Cannot require 'Utils' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:58:09.689Z - normal: Compiled project javascript file successfully
+2017-04-05T12:58:09.692Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T12:59:48.328Z - normal: Compiled project javascript file successfully
+2017-04-05T12:59:48.329Z - error: Compile error: Cannot require 'Utils' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T13:23:19.174Z - normal: Compiled project javascript file successfully
+2017-04-05T13:23:19.177Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T13:49:00.703Z - normal: Compiled project javascript file successfully
+2017-04-05T13:49:00.706Z - error: Compile error: Cannot require 'Type' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2017-04-05T14:10:37.665Z - normal: Compiled project javascript file successfully
+2017-04-05T14:10:37.667Z - error: Compile error: Cannot require 'Utils' from '/Users/BDGame_qiang/projects/blackjack/temp/scripts/assets/scripts'. Module not found.
+    at Readable.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/compile-worker.js:1:3554)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/read-only-stream/index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/stream-splicer/index.js:130:18)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:1022
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:466
+    at BrowserWindow.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/compiler.js:1:2045)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
