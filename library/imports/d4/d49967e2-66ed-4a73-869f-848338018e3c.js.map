@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACT,uBAAe,EAAE;AACb,uBAAS,EAAE;AACX,gBAAI,EAAE,EAAE,CAAC,IAAI;SAChB;KACH;;AAED,cAAU,EAAE,sBAAY;AACpB,YAAI,CAAC,IAAI,CAAC,MAAM,GAAG,CAAC,IAAI,CAAC,IAAI,CAAC,MAAM,CAAC;AACrC,aAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,eAAe,CAAC,MAAM,EAAE,EAAE,CAAC,EAAC;AACjD,gBAAI,OAAO,GAAG,IAAI,CAAC,eAAe,CAAC,CAAC,CAAC,CAAC;AACtC,mBAAO,CAAC,MAAM,GAAG,CAAC,OAAO,CAAC,MAAM,CAAC;SACpC;KACJ;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n       retainSideNodes: {\n           default: [],\n           type: cc.Node\n       }\n    },\n\n    switchSide: function () {\n        this.node.scaleX = -this.node.scaleX;\n        for (var i = 0; i < this.retainSideNodes.length; ++i){\n            var curNode = this.retainSideNodes[i];\n            curNode.scaleX = -curNode.scaleX;\n        }\n    }\n});\n"
+  ]
+}

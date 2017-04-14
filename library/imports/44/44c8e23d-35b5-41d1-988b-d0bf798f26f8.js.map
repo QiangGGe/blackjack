@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": ";AACA,SAAS,cAAc,CAAC,KAAK,EAAE;AAC3B,QAAI,MAAM,GAAG,KAAK,CAAC;AACnB,QAAI,GAAG,GAAG,CAAC,CAAC;AACZ,SAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,KAAK,CAAC,MAAM,EAAE,CAAC,EAAE,EAAC;AAClC,YAAI,IAAI,GAAG,KAAK,CAAC,CAAC,CAAC,CAAC;AACpB,YAAI,IAAI,CAAC,KAAK,KAAK,CAAC,EAAC;AACjB,kBAAM,GAAG,IAAI,CAAC;SACjB;AACD,WAAG,IAAI,IAAI,CAAC,GAAG,CAAC,EAAE,EAAE,IAAI,CAAC,KAAK,CAAC,CAAC;KACnC;AACD,QAAI,GAAG,GAAG,GAAG,CAAC;;AAEd,QAAI,MAAM,IAAI,GAAG,GAAG,EAAE,IAAG,EAAE,EAAC;;AAExB,WAAG,IAAI,EAAE,CAAC;KACb;;AAED,WAAO;AACH,WAAG,EAAE,GAAG;AACR,WAAG,EAAE,GAAG;KACX,CAAC;CACL;;AAED,SAAS,MAAM,CAAC,KAAK,EAAE;AACnB,QAAI,GAAG,GAAG,CAAC,CAAC;AACZ,SAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,KAAK,CAAC,MAAM,EAAE,CAAC,EAAE,EAAC;AAClC,YAAI,IAAI,GAAG,KAAK,CAAC,CAAC,CAAC,CAAC;AACpB,WAAG,IAAI,IAAI,CAAC,GAAG,CAAC,EAAE,EAAE,IAAI,CAAC,KAAK,CAAC,CAAC;KACnC;AACD,WAAO,GAAG,GAAG,EAAE,CAAC;CACnB;;AAED,IAAI,QAAQ,GAAG,SAAX,QAAQ,GAAe;AACvB,WAAO,EAAE,CAAC,MAAM,CAAC,QAAQ,EAAE,CAAC;CAC/B,CAAC;;AAEF,MAAM,CAAC,OAAO,GAAG;AACb,UAAM,EAAE,MAAM;AACd,kBAAc,EAAE,cAAc;AAC9B,YAAQ,EAAE,QAAQ;CACrB,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "// 返回尽可能不超过 21 点的最小和最大点数\nfunction getMinMaxPoint(cards) {\n    var hasAce = false;\n    var min = 0;\n    for (var i = 0; i < cards.length; i++){\n        var card = cards[i];\n        if (card.point === 1){\n            hasAce = true;\n        }\n        min += Math.min(10, card.point);\n    }\n    var max = min;\n    //如果有1个A可以当成11\n    if (hasAce && min + 10<= 21){\n        //如果两个A都当成11，那么总分最小也会是22，爆了，所以最多只能有一个A当成11\n        max += 10;\n    }\n\n    return {\n        min: min,\n        max: max\n    };\n}\n//爆牌了\nfunction isBust(cards) {\n    var sum = 0;\n    for (var i = 0; i < cards.length; i++){\n        var card = cards[i];\n        sum += Math.min(10, card.point);//这里的J|Q|K 都是10\n    }\n    return sum > 21;\n}\n\nvar isMobile = function () {\n    return cc.system.isMobile();\n};\n\nmodule.exports = {\n    isBust: isBust,\n    getMinMaxPoint: getMinMaxPoint,\n    isMobile: isMobile,\n};"
+  ]
+}

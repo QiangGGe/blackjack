@@ -9509,24 +9509,12 @@
       "__id__": 243
     },
     "_enabled": true,
-    "winAudio": {
-      "__uuid__": "75e62b72-33b4-4e05-ab1a-2ded0aa0c238"
-    },
-    "loseAudio": {
-      "__uuid__": "2957f94f-e8e3-4796-922b-82493265574b"
-    },
-    "cardAudio": {
-      "__uuid__": "f2b99b3d-579d-44ef-93e1-0adf0c8e23d4"
-    },
-    "buttonAudio": {
-      "__uuid__": "9e2ae507-fae5-4511-940b-f2e46f81b790"
-    },
-    "chipsAudio": {
-      "__uuid__": "2b8266f6-c4e3-40fe-91f4-699c347a0c31"
-    },
-    "bgm": {
-      "__uuid__": "49539cb0-3893-459a-b310-7cc1b7f6d335"
-    }
+    "winAudio": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/achievement_won.mp3",
+    "loseAudio": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/fail.mp3",
+    "cardAudio": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/card_deal.mp3",
+    "buttonAudio": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/button.mp3",
+    "chipsAudio": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/chips_place.mp3",
+    "bgm": "/Users/BDGame_qiang/projects/blackjack/assets/sfx/bgm2.mp3"
   },
   {
     "__type__": "cc.Node",

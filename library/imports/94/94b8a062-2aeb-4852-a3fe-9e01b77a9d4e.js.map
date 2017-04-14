@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": ";AACA,IAAI,KAAK,GAAG,OAAO,CAAC,OAAO,CAAC,CAAC;;AAG7B,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,KAAK;;AAEd,QAAI,EAAE,gBAAY;AACd,YAAI,CAAC,MAAM,EAAE,CAAC;AACd,YAAI,CAAC,UAAU,GAAG,IAAI,CAAC,QAAQ,CAAC,iBAAiB,CAAC;AAClD,YAAI,CAAC,QAAQ,GAAG,CAAC,CAAC;KACrB;;AAED,SAAK,EAAE,iBAAY;AACf,YAAI,CAAC,MAAM,EAAE,CAAC;AACd,YAAI,CAAC,UAAU,EAAE,CAAC;KACrB;;AAED,WAAO,EAAE,iBAAU,IAAI,EAAE;AACrB,YAAI,CAAC,MAAM,CAAC,IAAI,CAAC,CAAC;KACrB;;AAED,YAAQ,EAAE,kBAAU,KAAK,EAAE;AACvB,YAAI,CAAC,QAAQ,IAAI,KAAK,CAAC;AACvB,YAAI,CAAC,WAAW,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAC;KACnC;;AAED,cAAU,EAAE,oBAAU,KAAK,EAAE;AACzB,YAAI,CAAC,QAAQ,GAAG,CAAC,CAAC;AAClB,YAAI,CAAC,WAAW,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAC;KACnC;;AAED,eAAW,EAAE,qBAAU,MAAM,EAAE;AAC3B,YAAI,CAAC,UAAU,CAAC,MAAM,GAAG,MAAM,CAAC;KACnC;;CAEJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "\nvar Actor = require('Actor');\n\n\ncc.Class({\n    extends: Actor,\n\n    init: function () {\n        this._super();\n        this.labelStake = this.renderer.labelStakeOnTable;\n        this.stakeNum = 0;\n    },\n\n    reset: function () {\n        this._super();\n        this.resetStake();\n    },\n\n    addCard: function (card) {\n        this._super(card);\n    },\n\n    addStake: function (delta) {\n        this.stakeNum += delta;\n        this.updateStake(this.stakeNum);\n    },\n\n    resetStake: function (delta) {\n        this.stakeNum = 0;\n        this.updateStake(this.stakeNum);\n    },\n\n    updateStake: function (number) {\n        this.labelStake.string = number;\n    },\n\n});\n"
+  ]
+}

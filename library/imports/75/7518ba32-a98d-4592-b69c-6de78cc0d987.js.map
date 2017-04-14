@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAEtB,QAAI,EAAE,gBAAY;AACd,YAAI,CAAC,IAAI,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC;AAC5C,YAAI,CAAC,MAAM,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC;KAC9C;;AAEA,QAAI,EAAE,cAAU,KAAI,EAAE;AAClB,YAAI,CAAC,MAAM,CAAC,OAAO,GAAG,KAAI,CAAC;KAC9B;;AAED,UAAM,EAAE,gBAAU,IAAI,EAAE;;AACpB,YAAI,CAAC,IAAI,CAAC,IAAI,EAAE,CAAC;AACjB,YAAI,CAAC,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;KACxB;;AAED,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,MAAM,CAAC,OAAO,GAAG,KAAK,CAAC;KAC/B;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n   init: function () {\n       this.anim = this.getComponent(cc.Animation);\n       this.sprite = this.getComponent(cc.Sprite);\n   },\n\n    show: function (show) {\n        this.sprite.enabled = show;\n    },\n\n    playFX: function (name) {//播放动画 name can be 'blackjack' or 'bust'\n        this.anim.stop();\n        this.anim.play(name);\n    },\n\n    hideFX: function () {\n        this.sprite.enabled = false;\n    }\n});\n"
+  ]
+}
