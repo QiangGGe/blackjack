@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [
+    "cc",
+    "Class",
+    "extends",
+    "Component",
+    "properties",
+    "mask",
+    "Node",
+    "onLoad",
+    "onEnable",
+    "on",
+    "event",
+    "stopPropagation",
+    "onDisable",
+    "off"
+  ],
+  "mappings": ";;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASF,GAAGG,SADP;;AAGLC,gBAAY;AACRC,cAAML,GAAGM;AADD,KAHP;;AAOL;AACAC,YAAQ,kBAAY,CAEnB,CAVI;;AAYLC,cAAU,oBAAY;AAClB,aAAKH,IAAL,CAAUI,EAAV,CAAa,YAAb,EAA0B,UAAUC,KAAV,EAAiB;AACvCA,kBAAMC,eAAN,GADuC,CACf;AAC3B,SAFD;AAGA,aAAKN,IAAL,CAAUI,EAAV,CAAa,UAAb,EAAwB,UAAUC,KAAV,EAAiB;AACrCA,kBAAMC,eAAN;AACH,SAFD;AAGH,KAnBI;;AAqBLC,eAAW,qBAAY;AACnB,aAAKP,IAAL,CAAUQ,GAAV,CAAc,YAAd,EAA2B,UAAUH,KAAV,EAAiB;AACxCA,kBAAMC,eAAN,GADwC,CAChB;AAC3B,SAFD;AAGA,aAAKN,IAAL,CAAUQ,GAAV,CAAc,UAAd,EAAyB,UAAUH,KAAV,EAAiB;AACtCA,kBAAMC,eAAN;AACH,SAFD;AAGH;AA5BI,CAAT",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        mask: cc.Node\n    },\n\n    // use this for initialization\n    onLoad: function () {\n\n    },\n\n    onEnable: function () {\n        this.mask.on('touchstart',function (event) {\n            event.stopPropagation();//停止传递当前事件\n        });\n        this.mask.on('touchend',function (event) {\n            event.stopPropagation();\n        });\n    },\n\n    onDisable: function () {\n        this.mask.off('touchstart',function (event) {\n            event.stopPropagation();//停止传递当前事件\n        });\n        this.mask.off('touchend',function (event) {\n            event.stopPropagation();\n        })\n    }\n});\n"
+  ]
+}
