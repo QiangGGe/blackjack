@@ -2,22 +2,24 @@
 cc._RFpush(module, '5b23bbG99ZE8p0B219jg7Dr', 'Bet');
 // scripts/Bet.js
 
+'use strict';
+
 /**
  * Created by BDGame_qiang on 17/3/29.
  */
-var Game = require('Game'); //这里这个方法只是导出了Game这个类，而要调用它里面的方法还需要实例话一个对象来调用
+var Game = require('Game'); //这里这个方法只是导出了Game这个类，而要调用它里面的方法还需要实例化一个对象来调用
 
 cc.Class({
-    'extends': cc.Component,
+    extends: cc.Component,
 
     properties: {
         chipPrefab: cc.Prefab, //押注的金币预制资源
         btnChips: { //下注的按钮
-            'default': [],
+            default: [],
             type: cc.Node
         },
         chipValues: { //下注按钮对应的下注值
-            'default': [],
+            default: [],
             type: 'Integer'
         },
         anchorChipToss: cc.Node //金币位置的起始锚点

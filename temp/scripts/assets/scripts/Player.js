@@ -2,18 +2,20 @@
 cc._RFpush(module, '94b8aBiKutIUqP+ngG3ep1O', 'Player');
 // scripts/Player.js
 
+'use strict';
 
 var Actor = require('Actor');
 
 cc.Class({
-    'extends': Actor,
+    extends: Actor,
 
     init: function init() {
         this._super();
-        this.labelStake = this.renderer.labelStakeOnTable;
-        this.stakeNum = 0;
+        this.labelStake = this.renderer.labelStakeOnTable; //玩家头像上的赌资label
+        this.stakeNum = 0; //玩家下注的钱币数量
     },
 
+    //重置下注
     reset: function reset() {
         this._super();
         this.resetStake();
@@ -23,11 +25,13 @@ cc.Class({
         this._super(card);
     },
 
+    //加钱币下注
     addStake: function addStake(delta) {
         this.stakeNum += delta;
         this.updateStake(this.stakeNum);
     },
 
+    //重置下注数量
     resetStake: function resetStake(delta) {
         this.stakeNum = 0;
         this.updateStake(this.stakeNum);

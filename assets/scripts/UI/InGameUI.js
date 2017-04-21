@@ -62,7 +62,7 @@ cc.Class({
         this.gameStateUI.active = true;
         this.btnStart.active = true;
     },
-    //
+    //显示游戏结束时的UI
     showResultState: function () {
         this.betStateUI.active = false;
         this.gameStateUI.active = false;

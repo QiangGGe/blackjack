@@ -3,10 +3,28 @@
   "sources": [
     "unknown"
   ],
-  "names": [],
-  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAEtB,QAAI,EAAE,gBAAY;AACd,YAAI,CAAC,IAAI,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC;AAC5C,YAAI,CAAC,MAAM,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC;KAC9C;;AAEA,QAAI,EAAE,cAAU,KAAI,EAAE;AAClB,YAAI,CAAC,MAAM,CAAC,OAAO,GAAG,KAAI,CAAC;KAC9B;;AAED,UAAM,EAAE,gBAAU,IAAI,EAAE;;AACpB,YAAI,CAAC,IAAI,CAAC,IAAI,EAAE,CAAC;AACjB,YAAI,CAAC,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;KACxB;;AAED,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,MAAM,CAAC,OAAO,GAAG,KAAK,CAAC;KAC/B;CACJ,CAAC,CAAC",
+  "names": [
+    "cc",
+    "Class",
+    "extends",
+    "Component",
+    "init",
+    "anim",
+    "getComponent",
+    "Animation",
+    "sprite",
+    "Sprite",
+    "show",
+    "enabled",
+    "playFX",
+    "name",
+    "stop",
+    "play",
+    "hideFX"
+  ],
+  "mappings": ";;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASF,GAAGG,SADP;;AAGNC,UAAM,gBAAY;AACd,aAAKC,IAAL,GAAY,KAAKC,YAAL,CAAkBN,GAAGO,SAArB,CAAZ,CADc,CAC8B;AAC5C,aAAKC,MAAL,GAAc,KAAKF,YAAL,CAAkBN,GAAGS,MAArB,CAAd,CAFc,CAE6B;AAC9C,KANK;;AAQLC,UAAM,cAAUA,KAAV,EAAgB;AAClB,aAAKF,MAAL,CAAYG,OAAZ,GAAsBD,KAAtB,CADkB,CACS;AAC9B,KAVI;;AAYL;AACAE,YAAQ,gBAAUC,IAAV,EAAgB;AAAC;AACrB,aAAKR,IAAL,CAAUS,IAAV;AACA,aAAKT,IAAL,CAAUU,IAAV,CAAeF,IAAf;AACH,KAhBI;;AAkBLG,YAAQ,kBAAY;AAChB,aAAKR,MAAL,CAAYG,OAAZ,GAAsB,KAAtB;AACH;AApBI,CAAT",
   "file": "unknown",
   "sourcesContent": [
-    "cc.Class({\n    extends: cc.Component,\n\n   init: function () {\n       this.anim = this.getComponent(cc.Animation);\n       this.sprite = this.getComponent(cc.Sprite);\n   },\n\n    show: function (show) {\n        this.sprite.enabled = show;\n    },\n\n    playFX: function (name) {//播放动画 name can be 'blackjack' or 'bust'\n        this.anim.stop();\n        this.anim.play(name);\n    },\n\n    hideFX: function () {\n        this.sprite.enabled = false;\n    }\n});\n"
+    "cc.Class({\n    extends: cc.Component,\n\n   init: function () {\n       this.anim = this.getComponent(cc.Animation);//获取动画组件\n       this.sprite = this.getComponent(cc.Sprite);//获取图片精灵\n   },\n\n    show: function (show) {\n        this.sprite.enabled = show;//表示该组件是否启用\n    },\n\n    //根据动画名称播放动画\n    playFX: function (name) {//播放动画 name can be 'blackjack' or 'bust'\n        this.anim.stop();\n        this.anim.play(name);\n    },\n\n    hideFX: function () {\n        this.sprite.enabled = false;\n    }\n});\n"
   ]
 }

@@ -45,7 +45,7 @@ exports = {
 
         //开局后的子状态
 
-        var initialP = new State.PseudoStateKind("init 已开局", playing, State.PseudoStateKind.Initial);
+        var initialP = new State.PseudoState("init 已开局", playing, State.PseudoStateKind.Initial);
         var deal = new State.State("发牌", playing);
         var playersTurn = new State.State("玩家决策", playing);
         var dealersTurn = new State.State("庄家决策", playing);

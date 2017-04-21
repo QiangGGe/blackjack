@@ -2,10 +2,12 @@
 cc._RFpush(module, '7302fLH5RhI3KTpS6R3GX4a', 'InGameUI');
 // scripts/UI/InGameUI.js
 
+"use strict";
+
 var Game = require('Game');
 
 cc.Class({
-    "extends": cc.Component,
+    extends: cc.Component,
 
     properties: {
         panelChat: cc.Node, //聊天界面
@@ -32,6 +34,7 @@ cc.Class({
         this.betDuration = betDuration; //赋值下注时间
         this.betTimer = 0; //设置下注已过去时间
         this.isBetCounting = false; //是否正在计时
+
     },
     //开始计时器
     startCountDown: function startCountDown() {
@@ -62,7 +65,7 @@ cc.Class({
         this.gameStateUI.active = true;
         this.btnStart.active = true;
     },
-    //
+    //显示游戏结束时的UI
     showResultState: function showResultState() {
         this.betStateUI.active = false;
         this.gameStateUI.active = false;

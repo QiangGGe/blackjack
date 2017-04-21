@@ -55,3 +55,4 @@ Decks.prototype.draw = function () {
     return result;
 };
 
+module.exports = Decks;

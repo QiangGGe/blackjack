@@ -2,28 +2,31 @@
 cc._RFpush(module, '155a0mxP/FP0ojRnhosVrTE', 'ActorRenderer');
 // scripts/ActorRenderer.js
 
+'use strict';
+
 var Game = require('Game');
 var Types = require('Types');
 var Utils = require('Utils');
 var ActorPlayingState = Types.ActorPlayingState; //手中牌的状态
 
+
 cc.Class({
-    'extends': cc.Component,
+    extends: cc.Component,
 
     properties: {
-        playerInfo: cc.Node,
-        stakeOnTable: cc.Node,
+        playerInfo: cc.Node, //玩家信息节点
+        stakeOnTable: cc.Node, //玩家筹码托盘节点
         cardInfo: cc.Node,
         cardPrafab: cc.Prefab,
         anchorCards: cc.Node,
-        spPlayerName: cc.Label,
-        labelPlayerName: cc.Label,
+        spPlayerName: cc.Sprite,
+        labelPlayerName: cc.Label, //玩家名字节点
         labelTotalStake: cc.Label,
-        spPlayerPhoto: cc.Sprite,
+        spPlayerPhoto: cc.Sprite, //玩家头像节点
         callCounter: cc.ProgressBar,
         labelStakeOnTable: cc.Label,
         spChips: {
-            'default': [],
+            default: [],
             type: cc.Sprite
         },
         labelCardInfo: cc.Label,
@@ -42,22 +45,29 @@ cc.Class({
         this.counterTimer = 0;
         this.turnDuration = turnDuration;
 
+        //玩家头像位置
         this.playerInfo.position = playerInfoPos;
+        //玩家筹码位置
         this.stakeOnTable.position = stakePos;
+        //玩家名字
         this.labelPlayerName.string = playerInfo.name;
+        //根据数据更新对应玩家的钱币总数
         this.updateTotalStake(playerInfo.gold);
-        var photoIdx = playerInfo.photoIdx % 5;
+        var photoIdx = playerInfo.photoIdx % 5; //取0-4 的玩家头像资源id
         this.spPlayerPhoto.spriteFrame = Game.instance.assetMng.playerPhotos[photoIdx];
 
+        //玩家节点上的动画
         this.animFX = this.animFX.getComponent('FXPlayer');
         this.animFX.init();
         this.animFX.show(false);
 
+        //爆牌卡片
         this.cardInfo.active = false;
 
+        //从第四个玩家开始需要调整UI位置 UI位置取反
         if (switchSide) {
             this.spCardInfo.getComponent('SideSwitcher').switchSide();
-            this.spPlayerName.getComponent('SideSwither').switchSide();
+            this.spPlayerName.getComponent('SideSwitcher').switchSide();
         }
     },
 

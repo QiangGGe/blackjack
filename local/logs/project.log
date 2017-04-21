@@ -1,64 +1,102 @@
-2017-04-20T06:14:48.969Z - normal: Load ~/.CocosCreator/settings.json
-2017-04-20T06:14:48.974Z - normal: checking language setting...
-2017-04-20T06:14:48.975Z - normal: Language: zh
-2017-04-20T06:14:49.338Z - success: protocol editor-framework registered
-2017-04-20T06:14:49.338Z - success: protocol app registered
-2017-04-20T06:14:49.338Z - success: protocol theme registered
-2017-04-20T06:14:49.338Z - success: protocol profile registered
-2017-04-20T06:14:49.339Z - success: protocol packages registered
-2017-04-20T06:14:49.341Z - success: protocol unpack registerred
-2017-04-20T06:14:49.341Z - success: protocol disable-commonjs registerred
-2017-04-20T06:14:49.694Z - normal: connected!
-2017-04-20T06:14:49.695Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-04-20T06:14:49.697Z - normal: Initializing Cocos2d
-2017-04-20T06:14:49.861Z - normal: Initializing Asset Database
-2017-04-20T06:14:49.881Z - success: protocol uuid registerred
-2017-04-20T06:14:49.882Z - success: protocol db registerred
-2017-04-20T06:14:49.882Z - success: protocol thumbnail registerred
-2017-04-20T06:14:49.882Z - normal: Loading editor/builtin packages
-2017-04-20T06:14:49.983Z - success: assets loaded
-2017-04-20T06:14:49.987Z - success: builder loaded
-2017-04-20T06:14:49.991Z - success: hierarchy loaded
-2017-04-20T06:14:49.996Z - success: inspector loaded
-2017-04-20T06:14:49.998Z - success: keystore loaded
-2017-04-20T06:14:50.001Z - success: node-library loaded
-2017-04-20T06:14:50.003Z - success: preferences loaded
-2017-04-20T06:14:50.019Z - success: project-importer loaded
-2017-04-20T06:14:50.022Z - success: project-settings loaded
-2017-04-20T06:14:50.025Z - success: ui-kit loaded
-2017-04-20T06:14:50.030Z - success: ui-grid loaded
-2017-04-20T06:14:50.038Z - success: scene loaded
-2017-04-20T06:14:50.039Z - success: sprite-editor loaded
-2017-04-20T06:14:50.072Z - success: store loaded
-2017-04-20T06:14:50.077Z - success: timeline loaded
-2017-04-20T06:14:50.078Z - normal: Loading builtin packages
-2017-04-20T06:14:50.083Z - success: anysdk loaded
-2017-04-20T06:14:50.086Z - success: asset-db-debugger loaded
-2017-04-20T06:14:50.087Z - success: code-editor loaded
-2017-04-20T06:14:50.088Z - success: color-picker loaded
-2017-04-20T06:14:50.092Z - success: console loaded
-2017-04-20T06:14:50.098Z - success: package-manager loaded
-2017-04-20T06:14:50.102Z - success: tester loaded
-2017-04-20T06:14:50.106Z - success: ui-kit-preview-extra loaded
-2017-04-20T06:14:50.109Z - success: ui-kit-preview loaded
-2017-04-20T06:14:50.113Z - success: ui-tree loaded
-2017-04-20T06:14:50.157Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-04-20T06:14:50.160Z - normal: Loading packages
-2017-04-20T06:14:50.164Z - normal: Watching packages
-2017-04-20T06:14:50.177Z - normal: Run Application
-2017-04-20T06:14:51.031Z - success: preview server running at http://localhost:7457
-2017-04-20T06:14:55.962Z - normal: 1.4.2
-2017-04-20T06:16:52.227Z - normal: Compiled project javascript file successfully
-2017-04-20T06:17:24.283Z - normal: Compiled project javascript file successfully
-2017-04-20T06:17:29.651Z - normal: Compiled project javascript file successfully
-2017-04-20T06:17:40.490Z - normal: Compiled project javascript file successfully
-2017-04-20T06:27:38.955Z - normal: Compiled project javascript file successfully
-2017-04-20T08:24:10.482Z - normal: Compiled project javascript file successfully
-2017-04-20T08:27:08.312Z - normal: Compiled project javascript file successfully
-2017-04-20T08:27:24.647Z - normal: Compiled project javascript file successfully
-2017-04-20T08:27:32.736Z - normal: Compiled project javascript file successfully
-2017-04-20T08:41:08.815Z - normal: Compiled project javascript file successfully
-2017-04-20T08:45:05.284Z - normal: Compiled project javascript file successfully
-2017-04-20T09:03:24.882Z - normal: Compiled project javascript file successfully
-2017-04-20T09:05:31.993Z - normal: Compiled project javascript file successfully
-2017-04-20T09:15:53.557Z - normal: Compiled project javascript file successfully
+2017-04-21T02:11:24.856Z - normal: Load ~/.CocosCreator/settings.json
+2017-04-21T02:11:24.861Z - normal: checking language setting...
+2017-04-21T02:11:24.862Z - normal: Language: zh
+2017-04-21T02:11:25.195Z - success: protocol editor-framework registered
+2017-04-21T02:11:25.196Z - success: protocol app registered
+2017-04-21T02:11:25.196Z - success: protocol theme registered
+2017-04-21T02:11:25.196Z - success: protocol profile registered
+2017-04-21T02:11:25.196Z - success: protocol packages registered
+2017-04-21T02:11:25.199Z - success: protocol unpack registerred
+2017-04-21T02:11:25.199Z - success: protocol disable-commonjs registerred
+2017-04-21T02:11:25.538Z - normal: connected!
+2017-04-21T02:11:25.540Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-04-21T02:11:25.542Z - normal: Initializing Cocos2d
+2017-04-21T02:11:25.697Z - normal: Initializing Asset Database
+2017-04-21T02:11:25.714Z - success: protocol uuid registerred
+2017-04-21T02:11:25.715Z - success: protocol db registerred
+2017-04-21T02:11:25.715Z - success: protocol thumbnail registerred
+2017-04-21T02:11:25.715Z - normal: Loading editor/builtin packages
+2017-04-21T02:11:25.813Z - success: assets loaded
+2017-04-21T02:11:25.816Z - success: builder loaded
+2017-04-21T02:11:25.820Z - success: hierarchy loaded
+2017-04-21T02:11:25.824Z - success: inspector loaded
+2017-04-21T02:11:25.826Z - success: keystore loaded
+2017-04-21T02:11:25.830Z - success: node-library loaded
+2017-04-21T02:11:25.832Z - success: preferences loaded
+2017-04-21T02:11:25.847Z - success: project-importer loaded
+2017-04-21T02:11:25.850Z - success: project-settings loaded
+2017-04-21T02:11:25.854Z - success: ui-kit loaded
+2017-04-21T02:11:25.871Z - success: ui-grid loaded
+2017-04-21T02:11:25.884Z - success: scene loaded
+2017-04-21T02:11:25.886Z - success: sprite-editor loaded
+2017-04-21T02:11:25.940Z - success: store loaded
+2017-04-21T02:11:25.948Z - success: timeline loaded
+2017-04-21T02:11:25.948Z - normal: Loading builtin packages
+2017-04-21T02:11:25.953Z - success: anysdk loaded
+2017-04-21T02:11:25.956Z - success: asset-db-debugger loaded
+2017-04-21T02:11:25.958Z - success: code-editor loaded
+2017-04-21T02:11:25.959Z - success: color-picker loaded
+2017-04-21T02:11:25.965Z - success: console loaded
+2017-04-21T02:11:25.970Z - success: package-manager loaded
+2017-04-21T02:11:25.974Z - success: tester loaded
+2017-04-21T02:11:25.980Z - success: ui-kit-preview-extra loaded
+2017-04-21T02:11:25.983Z - success: ui-kit-preview loaded
+2017-04-21T02:11:25.987Z - success: ui-tree loaded
+2017-04-21T02:11:26.036Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-04-21T02:11:26.039Z - normal: Loading packages
+2017-04-21T02:11:26.043Z - normal: Watching packages
+2017-04-21T02:11:26.056Z - normal: Run Application
+2017-04-21T02:11:27.207Z - success: preview server running at http://localhost:7456
+2017-04-21T02:11:30.824Z - normal: 1.4.2
+2017-04-21T02:12:42.107Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T02:28:04.715Z - normal: Compiled project javascript file successfully
+2017-04-21T02:33:31.616Z - normal: Compiled project javascript file successfully
+2017-04-21T02:34:03.098Z - normal: Compiled project javascript file successfully
+2017-04-21T02:41:13.757Z - normal: Compiled project javascript file successfully
+2017-04-21T02:42:23.487Z - normal: Compiled project javascript file successfully
+2017-04-21T02:48:57.161Z - normal: Compiled project javascript file successfully
+2017-04-21T02:51:49.016Z - normal: Compiled project javascript file successfully
+2017-04-21T03:03:28.228Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:04:36.793Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:09:23.065Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:16:27.702Z - normal: Compiled project javascript file successfully
+2017-04-21T03:16:29.254Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:19:12.561Z - normal: Compiled project javascript file successfully
+2017-04-21T03:19:13.950Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:21:46.597Z - normal: Compiled project javascript file successfully
+2017-04-21T03:21:48.003Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:37:44.390Z - normal: Compiled project javascript file successfully
+2017-04-21T03:37:45.522Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:55:03.323Z - normal: Compiled project javascript file successfully
+2017-04-21T03:55:04.578Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T03:59:10.605Z - normal: Compiled project javascript file successfully
+2017-04-21T03:59:12.211Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T06:20:44.149Z - normal: Compiled project javascript file successfully
+2017-04-21T06:20:45.707Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T06:33:46.924Z - normal: Compiled project javascript file successfully
+2017-04-21T06:44:58.163Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T06:44:58.645Z - normal: Compiled project javascript file successfully
+2017-04-21T06:45:02.080Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T06:51:09.808Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T07:01:15.000Z - normal: Compiled project javascript file successfully
+2017-04-21T07:01:17.102Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T07:08:34.504Z - normal: Compiled project javascript file successfully
+2017-04-21T07:08:36.952Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:15:11.549Z - normal: Compiled project javascript file successfully
+2017-04-21T09:15:14.977Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:20:03.796Z - normal: Compiled project javascript file successfully
+2017-04-21T09:20:05.961Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:23:31.671Z - normal: Compiled project javascript file successfully
+2017-04-21T09:23:33.731Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:25:31.020Z - normal: Compiled project javascript file successfully
+2017-04-21T09:25:33.056Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:25:57.951Z - normal: Compiled project javascript file successfully
+2017-04-21T09:26:00.189Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:42:01.428Z - normal: Compiled project javascript file successfully
+2017-04-21T09:42:03.488Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:42:28.516Z - normal: Compiled project javascript file successfully
+2017-04-21T09:42:30.572Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:42:48.652Z - normal: Compiled project javascript file successfully
+2017-04-21T09:42:50.702Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-04-21T09:54:45.192Z - normal: Compiled project javascript file successfully
+2017-04-21T09:54:46.919Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
