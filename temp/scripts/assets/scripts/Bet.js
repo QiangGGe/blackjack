@@ -46,7 +46,7 @@ cc.Class({
 
     //加注
     playAddChip: function playAddChip() {
-        var startPos = cc.P(cc.randomMinus1To1() * 50, cc.randomMinus1To1() * 50); //产生一个随机位置
+        var startPos = cc.p(cc.randomMinus1To1() * 50, cc.randomMinus1To1() * 50); //产生一个随机位置
         var chip = cc.instantiate(this.chipPrefab); //实例化一个金币对象
         this.anchorChipToss.addChild(chip); //将金币加入到金币特定的layer
         chip.setPosition(startPos); //设置金币位置

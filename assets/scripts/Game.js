@@ -79,12 +79,18 @@ var Game = cc.Class({
         } else {
             this.totalChipsNum -= delta;
             this.updateTotalChips();
+            this.player.addStake(delta);//更新玩家下注钱币数，这个是更新头像黄色金币旁的钱数的
+            this.audioMng.playChips();//播放扔钱币的音效
+            this.info.enabled = false;//enabled 表示该组件自身是否启用。
+            this.info.string = "请下注";
+            return true;//这个决定了Bet里的回调函数是否启用
+
         }
     },
 
     updateTotalChips: function () {
         this.totalChips.string = this.totalChipsNum;//总的钱币数
-        this.player.renderer.updateTotalStake(this.totalChipsNum);//每个玩家头像上的钱币数
+        this.player.renderer.updateTotalStake(this.totalChipsNum);//更新玩家剩余钱币数，每个玩家头像旁边的钱币数
 
     },
 

@@ -18,50 +18,34 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 352,
+                "height": 364,
                 "type": "panel",
-                "width": 283
+                "width": 336
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 376,
+                "height": 364,
                 "type": "panel",
-                "width": 283
+                "width": 336
               }
             ],
             "height": 731,
             "type": "dock-v",
-            "width": 283
+            "width": 336
           },
           {
             "children": [
               {
+                "active": 0,
                 "children": [
-                  {
-                    "active": 0,
-                    "children": [
-                      "scene"
-                    ],
-                    "height": 376,
-                    "type": "panel",
-                    "width": 473.984375
-                  },
-                  {
-                    "active": 0,
-                    "children": [
-                      "node-library"
-                    ],
-                    "height": 376,
-                    "type": "panel",
-                    "width": 204
-                  }
+                  "scene"
                 ],
-                "height": 376,
-                "type": "dock-h",
-                "width": 680.984375
+                "height": 364,
+                "type": "panel",
+                "width": 628
               },
               {
                 "active": 1,
@@ -69,14 +53,14 @@
                   "console",
                   "timeline"
                 ],
-                "height": 352,
+                "height": 364,
                 "type": "panel",
-                "width": 680.984375
+                "width": 628
               }
             ],
             "height": 731,
             "type": "dock-v",
-            "width": 680.984375
+            "width": 628
           },
           {
             "active": 0,
@@ -96,11 +80,9 @@
         "hierarchy",
         "assets",
         "scene",
-        "node-library",
         "timeline"
       ]
-    },
-    "worker": {}
+    }
   },
   "panels": {
     "code-editor": {

@@ -8,6 +8,6 @@ cc.Class({
     },
     //播放投掷动画
     play: function () {
-        this.anim.play('chip_toss');
+        this.anim.play('chipToss');
     }
 });

@@ -1,102 +1,1476 @@
-2017-04-21T02:11:24.856Z - normal: Load ~/.CocosCreator/settings.json
-2017-04-21T02:11:24.861Z - normal: checking language setting...
-2017-04-21T02:11:24.862Z - normal: Language: zh
-2017-04-21T02:11:25.195Z - success: protocol editor-framework registered
-2017-04-21T02:11:25.196Z - success: protocol app registered
-2017-04-21T02:11:25.196Z - success: protocol theme registered
-2017-04-21T02:11:25.196Z - success: protocol profile registered
-2017-04-21T02:11:25.196Z - success: protocol packages registered
-2017-04-21T02:11:25.199Z - success: protocol unpack registerred
-2017-04-21T02:11:25.199Z - success: protocol disable-commonjs registerred
-2017-04-21T02:11:25.538Z - normal: connected!
-2017-04-21T02:11:25.540Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
-2017-04-21T02:11:25.542Z - normal: Initializing Cocos2d
-2017-04-21T02:11:25.697Z - normal: Initializing Asset Database
-2017-04-21T02:11:25.714Z - success: protocol uuid registerred
-2017-04-21T02:11:25.715Z - success: protocol db registerred
-2017-04-21T02:11:25.715Z - success: protocol thumbnail registerred
-2017-04-21T02:11:25.715Z - normal: Loading editor/builtin packages
-2017-04-21T02:11:25.813Z - success: assets loaded
-2017-04-21T02:11:25.816Z - success: builder loaded
-2017-04-21T02:11:25.820Z - success: hierarchy loaded
-2017-04-21T02:11:25.824Z - success: inspector loaded
-2017-04-21T02:11:25.826Z - success: keystore loaded
-2017-04-21T02:11:25.830Z - success: node-library loaded
-2017-04-21T02:11:25.832Z - success: preferences loaded
-2017-04-21T02:11:25.847Z - success: project-importer loaded
-2017-04-21T02:11:25.850Z - success: project-settings loaded
-2017-04-21T02:11:25.854Z - success: ui-kit loaded
-2017-04-21T02:11:25.871Z - success: ui-grid loaded
-2017-04-21T02:11:25.884Z - success: scene loaded
-2017-04-21T02:11:25.886Z - success: sprite-editor loaded
-2017-04-21T02:11:25.940Z - success: store loaded
-2017-04-21T02:11:25.948Z - success: timeline loaded
-2017-04-21T02:11:25.948Z - normal: Loading builtin packages
-2017-04-21T02:11:25.953Z - success: anysdk loaded
-2017-04-21T02:11:25.956Z - success: asset-db-debugger loaded
-2017-04-21T02:11:25.958Z - success: code-editor loaded
-2017-04-21T02:11:25.959Z - success: color-picker loaded
-2017-04-21T02:11:25.965Z - success: console loaded
-2017-04-21T02:11:25.970Z - success: package-manager loaded
-2017-04-21T02:11:25.974Z - success: tester loaded
-2017-04-21T02:11:25.980Z - success: ui-kit-preview-extra loaded
-2017-04-21T02:11:25.983Z - success: ui-kit-preview loaded
-2017-04-21T02:11:25.987Z - success: ui-tree loaded
-2017-04-21T02:11:26.036Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
-2017-04-21T02:11:26.039Z - normal: Loading packages
-2017-04-21T02:11:26.043Z - normal: Watching packages
-2017-04-21T02:11:26.056Z - normal: Run Application
-2017-04-21T02:11:27.207Z - success: preview server running at http://localhost:7456
-2017-04-21T02:11:30.824Z - normal: 1.4.2
-2017-04-21T02:12:42.107Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T02:28:04.715Z - normal: Compiled project javascript file successfully
-2017-04-21T02:33:31.616Z - normal: Compiled project javascript file successfully
-2017-04-21T02:34:03.098Z - normal: Compiled project javascript file successfully
-2017-04-21T02:41:13.757Z - normal: Compiled project javascript file successfully
-2017-04-21T02:42:23.487Z - normal: Compiled project javascript file successfully
-2017-04-21T02:48:57.161Z - normal: Compiled project javascript file successfully
-2017-04-21T02:51:49.016Z - normal: Compiled project javascript file successfully
-2017-04-21T03:03:28.228Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:04:36.793Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:09:23.065Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:16:27.702Z - normal: Compiled project javascript file successfully
-2017-04-21T03:16:29.254Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:19:12.561Z - normal: Compiled project javascript file successfully
-2017-04-21T03:19:13.950Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:21:46.597Z - normal: Compiled project javascript file successfully
-2017-04-21T03:21:48.003Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:37:44.390Z - normal: Compiled project javascript file successfully
-2017-04-21T03:37:45.522Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:55:03.323Z - normal: Compiled project javascript file successfully
-2017-04-21T03:55:04.578Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T03:59:10.605Z - normal: Compiled project javascript file successfully
-2017-04-21T03:59:12.211Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T06:20:44.149Z - normal: Compiled project javascript file successfully
-2017-04-21T06:20:45.707Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T06:33:46.924Z - normal: Compiled project javascript file successfully
-2017-04-21T06:44:58.163Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T06:44:58.645Z - normal: Compiled project javascript file successfully
-2017-04-21T06:45:02.080Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T06:51:09.808Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T07:01:15.000Z - normal: Compiled project javascript file successfully
-2017-04-21T07:01:17.102Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T07:08:34.504Z - normal: Compiled project javascript file successfully
-2017-04-21T07:08:36.952Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:15:11.549Z - normal: Compiled project javascript file successfully
-2017-04-21T09:15:14.977Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:20:03.796Z - normal: Compiled project javascript file successfully
-2017-04-21T09:20:05.961Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:23:31.671Z - normal: Compiled project javascript file successfully
-2017-04-21T09:23:33.731Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:25:31.020Z - normal: Compiled project javascript file successfully
-2017-04-21T09:25:33.056Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:25:57.951Z - normal: Compiled project javascript file successfully
-2017-04-21T09:26:00.189Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:42:01.428Z - normal: Compiled project javascript file successfully
-2017-04-21T09:42:03.488Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:42:28.516Z - normal: Compiled project javascript file successfully
-2017-04-21T09:42:30.572Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:42:48.652Z - normal: Compiled project javascript file successfully
-2017-04-21T09:42:50.702Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
-2017-04-21T09:54:45.192Z - normal: Compiled project javascript file successfully
-2017-04-21T09:54:46.919Z - warn: Property spriteFrame of BitmapFont 'stake_number' is invalid. Using system font instead.
+2017-05-16T08:48:16.945Z - normal: Load ~/.CocosCreator/settings.json
+2017-05-16T08:48:16.951Z - normal: checking language setting...
+2017-05-16T08:48:16.952Z - normal: Language: zh
+2017-05-16T08:48:17.378Z - success: protocol editor-framework registered
+2017-05-16T08:48:17.379Z - success: protocol app registered
+2017-05-16T08:48:17.379Z - success: protocol theme registered
+2017-05-16T08:48:17.379Z - success: protocol profile registered
+2017-05-16T08:48:17.379Z - success: protocol packages registered
+2017-05-16T08:48:17.382Z - success: protocol unpack registerred
+2017-05-16T08:48:17.383Z - success: protocol disable-commonjs registerred
+2017-05-16T08:48:17.851Z - normal: connected!
+2017-05-16T08:48:17.853Z - normal: Check project /Users/BDGame_qiang/projects/blackjack
+2017-05-16T08:48:17.855Z - normal: Initializing Cocos2d
+2017-05-16T08:48:18.066Z - normal: Initializing Asset Database
+2017-05-16T08:48:18.085Z - success: protocol uuid registerred
+2017-05-16T08:48:18.086Z - success: protocol db registerred
+2017-05-16T08:48:18.086Z - success: protocol thumbnail registerred
+2017-05-16T08:48:18.086Z - normal: Loading editor/builtin packages
+2017-05-16T08:48:18.205Z - success: assets loaded
+2017-05-16T08:48:18.212Z - success: builder loaded
+2017-05-16T08:48:18.221Z - success: hierarchy loaded
+2017-05-16T08:48:18.227Z - success: inspector loaded
+2017-05-16T08:48:18.229Z - success: keystore loaded
+2017-05-16T08:48:18.233Z - success: node-library loaded
+2017-05-16T08:48:18.235Z - success: preferences loaded
+2017-05-16T08:48:18.250Z - success: project-importer loaded
+2017-05-16T08:48:18.253Z - success: project-settings loaded
+2017-05-16T08:48:18.258Z - success: ui-kit loaded
+2017-05-16T08:48:18.263Z - success: ui-grid loaded
+2017-05-16T08:48:18.271Z - success: scene loaded
+2017-05-16T08:48:18.272Z - success: sprite-editor loaded
+2017-05-16T08:48:18.314Z - success: store loaded
+2017-05-16T08:48:18.319Z - success: timeline loaded
+2017-05-16T08:48:18.320Z - normal: Loading builtin packages
+2017-05-16T08:48:18.327Z - success: anysdk loaded
+2017-05-16T08:48:18.330Z - success: asset-db-debugger loaded
+2017-05-16T08:48:18.332Z - success: code-editor loaded
+2017-05-16T08:48:18.333Z - success: color-picker loaded
+2017-05-16T08:48:18.337Z - success: console loaded
+2017-05-16T08:48:18.342Z - success: package-manager loaded
+2017-05-16T08:48:18.346Z - success: tester loaded
+2017-05-16T08:48:18.349Z - success: ui-kit-preview-extra loaded
+2017-05-16T08:48:18.353Z - success: ui-kit-preview loaded
+2017-05-16T08:48:18.358Z - success: ui-tree loaded
+2017-05-16T08:48:18.406Z - normal: Initializing project /Users/BDGame_qiang/projects/blackjack
+2017-05-16T08:48:18.410Z - normal: Loading packages
+2017-05-16T08:48:18.417Z - normal: Watching packages
+2017-05-16T08:48:18.432Z - normal: Run Application
+2017-05-16T08:48:20.251Z - success: preview server running at http://localhost:7457
+2017-05-16T08:48:20.252Z - normal: Compiling scripts...
+2017-05-16T08:48:22.797Z - normal: Compiled project javascript file successfully
+2017-05-16T08:48:27.495Z - normal: 1.4.2
+2017-05-16T08:51:48.519Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.548Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.585Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.601Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.617Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.636Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.654Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.668Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.685Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.706Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.730Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.752Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.767Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.785Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.802Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.821Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.836Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.866Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.871Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.894Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.922Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.936Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.951Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.967Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:48.985Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.007Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.022Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.047Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.065Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.070Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.085Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.101Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.116Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.133Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.150Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.169Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.185Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.207Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.222Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.236Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.259Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.266Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.286Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.301Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.317Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.335Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.365Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.384Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.400Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.417Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.433Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.438Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.451Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.467Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.484Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.509Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.530Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.538Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.553Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.604Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.617Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.622Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.635Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.714Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.730Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.734Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.756Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.769Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.784Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.799Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.804Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.817Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.834Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.850Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.871Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.888Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.900Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.915Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.922Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.935Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.952Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.969Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.993Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:49.998Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:50.019Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:50.034Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:50.047Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:51:50.067Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.876Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.883Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.896Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.902Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.927Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.933Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.941Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.947Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.962Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.978Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:01.997Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.015Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.026Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.033Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.044Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.050Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.061Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.067Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.084Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.094Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.115Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.132Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.145Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.150Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.162Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.168Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.181Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.196Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.202Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.217Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.235Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.268Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.284Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.298Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.312Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.328Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.338Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.351Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.362Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.372Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.388Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.417Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.433Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.450Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.466Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.483Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.504Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.514Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.519Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.538Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.547Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.561Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.568Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.579Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.595Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.723Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.742Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.748Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.761Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.767Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.788Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.796Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.809Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.816Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.832Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.848Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.867Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.879Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.893Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.901Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.924Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.932Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.947Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.962Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.980Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.985Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:02.998Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.015Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.026Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.049Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.073Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.250Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.259Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.267Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.282Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.300Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.313Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.319Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.333Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T08:54:03.346Z - error: The x of new position is invalid
+    at cc_Node.setPosition (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:978:23)
+    at cc_SampledAnimCurve._applyValue (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:121:22)
+    at cc_SampledAnimCurve.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/animation-curves.js:192:14)
+    at AnimationState.sample (/Applications/CocosCreator.app/Contents/Resources/engine/cocos2d/animation/types.js:397:19)
+    at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
+    at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
+    at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)

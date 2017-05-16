@@ -64,6 +64,7 @@ cc.Class({
         state: {
             default: ActorPlayingState.Normal,
             notify: function notify(oldState) {
+                //当属性被赋值时触发制定方法 需要定义default 属性并且不能用于数组
                 if (this.state !== oldState) {
                     this.renderer.updateState();
                 }

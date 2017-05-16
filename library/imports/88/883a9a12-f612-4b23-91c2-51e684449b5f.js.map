@@ -3,10 +3,19 @@
   "sources": [
     "unknown"
   ],
-  "names": [],
-  "mappings": ";;;AAGA,EAAE,CAAC,KAAK,CAAC;AACN,aAAS,EAAE,CAAC,SAAS;AACpB,YAAU,EAAC;AACR,QAAI,EAAE,EAAE,CAAC,SAAS;GACpB;;AAED,MAAI,EAAE,gBAAY;AACd,QAAI,CAAC,IAAI,CAAC,IAAI,CAAC,WAAW,CAAC,CAAC;GAC/B;CACJ,CAAC,CAAC",
+  "names": [
+    "cc",
+    "Class",
+    "extends",
+    "Component",
+    "properties",
+    "anim",
+    "Animation",
+    "play"
+  ],
+  "mappings": ";;AAAA;;;AAGAA,GAAGC,KAAH,CAAS;AACNC,WAASF,GAAGG,SADN;AAELC,cAAW;AACRC,UAAML,GAAGM;AADD,GAFN;AAKL;AACAC,QAAM,gBAAY;AACd,SAAKF,IAAL,CAAUE,IAAV,CAAe,UAAf;AACH;AARI,CAAT",
   "file": "unknown",
   "sourcesContent": [
-    "/**\n * Created by BDGame_qiang on 17/3/29.\n */\ncc.Class({\n   extends: cc.Component,\n    properties:{\n       anim: cc.Animation\n    },\n    //播放投掷动画\n    play: function () {\n        this.anim.play('chip_toss');\n    }\n});"
+    "/**\n * Created by BDGame_qiang on 17/3/29.\n */\ncc.Class({\n   extends: cc.Component,\n    properties:{\n       anim: cc.Animation\n    },\n    //播放投掷动画\n    play: function () {\n        this.anim.play('chipToss');\n    }\n});"
   ]
 }
