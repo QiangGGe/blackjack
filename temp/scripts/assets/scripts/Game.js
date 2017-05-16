@@ -101,6 +101,7 @@ var Game = cc.Class({
 
     updateTotalChips: function updateTotalChips() {
         this.totalChips.string = this.totalChipsNum; //总的钱币数
+        //player是继承于Actor的而renderer是Actor绑定的组件ActorRenderer上的
         this.player.renderer.updateTotalStake(this.totalChipsNum); //更新玩家剩余钱币数，每个玩家头像旁边的钱币数
     },
 
@@ -222,6 +223,11 @@ var Game = cc.Class({
                 }
             }
         }
+    },
+    //开始游戏
+    deal: function deal() {
+        this.fsm.toDeal();
+        this.audioMng.playButton();
     }
 
     // called every frame, uncomment this function to activate update callback

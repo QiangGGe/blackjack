@@ -127,6 +127,7 @@ var Game = cc.Class({
         }
     },
 
+
     //结算
     onEndState: function (enter) {
       if (enter){
@@ -225,6 +226,11 @@ var Game = cc.Class({
             }
         }
 
+    },
+    //开始游戏
+    deal: function () {
+        this.fsm.toDeal();
+        this.audioMng.playButton();
     }
 
     // called every frame, uncomment this function to activate update callback
