@@ -1474,3 +1474,5 @@
     at Object.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-gizmo.js:1:4783)
     at create.update (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/elements/trajectory/trajectory-tool.js:1:439)
     at create.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/gizmos/utils.js:1:425)
+2017-05-16T09:05:30.571Z - normal: Compiled project javascript file successfully
+2017-05-16T09:10:00.298Z - normal: Compiled project javascript file successfully

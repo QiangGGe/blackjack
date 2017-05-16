@@ -88,6 +88,12 @@ var Game = cc.Class({
         }
     },
 
+    resetStake: function () {
+        this.totalChipsNum += this.player.stakeNum;//将已下注的钱币数收回
+        this.player.resetStake();//将玩家钱币数恢复，下注数清零
+        this.updateTotalChips();
+    },
+
     updateTotalChips: function () {
         this.totalChips.string = this.totalChipsNum;//总的钱币数
         this.player.renderer.updateTotalStake(this.totalChipsNum);//更新玩家剩余钱币数，每个玩家头像旁边的钱币数

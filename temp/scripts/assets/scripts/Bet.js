@@ -56,7 +56,7 @@ cc.Class({
     resetChips: function resetChips() {
         Game.instance.resetStake();
         Game.instance.info.enabled = false;
-        // this.
+        this.resetTossedChips();
     },
 
     resetTossedChips: function resetTossedChips() {
